@@ -1,0 +1,1343 @@
+Identifier	Character	Dialogue	Filename	Line Number
+hilltop_convince_9591ebe9	f	What do you mean, too dangerous?	game/convince.rpy	5
+hilltop_convince_5a51bec3	f	Is this some kind of weird joke you're playing on me?	game/convince.rpy	6
+hilltop_convince_af188c61	f	I can never really tell when you're joking, or when you really mean something.	game/convince.rpy	7
+hilltop_convince_e00eea8b	f	Well, that might be fun after. But before we do that, I'm actually kind of hungry.	game/convince.rpy	11
+hilltop_convince_44f61932	f	And you {i}did{/i} promise we'd meet somewhere for dinner tonight.	game/convince.rpy	12
+hilltop_convince_fd71606d	f	So how about if we go for dinner first, and a drive after?	game/convince.rpy	13
+hilltop_convince_1622aa3e	f	Deal!	game/convince.rpy	16
+hilltop_convince_eb918e47	f	...What?	game/convince.rpy	21
+hilltop_convince_c80b15b5	f	This is really not funny, if you're trying to make a joke.	game/convince.rpy	22
+hilltop_convince_02ba90f8	f	Haha, nice.	game/convince.rpy	25
+hilltop_convince_d50d252e	f	But seriously, where are we getting dinner?	game/convince.rpy	26
+hilltop_convince_30fadd6d	f	Sounds good! See you at the Burger Shack!	game/convince.rpy	29
+hilltop_convince_6899425c	f	Ooh, I've never had Thai! That sounds fun!	game/convince.rpy	35
+hilltop_convince_ba6043d3	f	Hooray for taco-night!	game/convince.rpy	41
+dinnerAnyway_afbf4212	f	Where do you want to meet, anyway?	game/convince.rpy	55
+dinnerAnyway_30fadd6d	f	Sounds good! See you at the Burger Shack!	game/convince.rpy	58
+dinnerAnyway_6899425c	f	Ooh, I've never had Thai! That sounds fun!	game/convince.rpy	64
+dinnerAnyway_ba6043d3	f	Hooray for taco-night!	game/convince.rpy	70
+tooDangerousForDinner_3e97b982	f	Is this some kind of weird death threat? What's going on? You're kind of starting to creep me out here.	game/convince.rpy	81
+tooDangerousForDinner_5f633294	f	Okay...	game/convince.rpy	88
+tooDangerousForDinner_472f52ec	f	You're kind of weirding me out here.	game/convince.rpy	89
+tooDangerousForDinner_0ca136f1	f	Maybe we can talk about it once we meet?	game/convince.rpy	90
+tooDangerousForDinner_dc1525ac	f	Okay, this is all pretty weird.	game/convince.rpy	92
+tooDangerousForDinner_59bcd4f0	f	I mean - You seem pretty insistent that dinner tonight would be disastrous.	game/convince.rpy	93
+tooDangerousForDinner_81422852	f	And I feel like I'd be an idiot to just ignore someone talking about me dying.	game/convince.rpy	94
+tooDangerousForDinner_d2ed02dd	f	But this isn't the kind of thing that happens in real life, you know?	game/convince.rpy	95
+tooDangerousForDinner_f349a7b7	f	Someone I've known for a while just coming up and telling me that I'm going to die tonight?	game/convince.rpy	96
+tooDangerousForDinner_d7e6736e	f	I mean - What's going to happen? What makes you think I'm going to die?	game/convince.rpy	97
+tooDangerousForDinner_31cd8257	f	We're going to dinner, for goodness sakes, not a war zone. What's the worst that can happen at a simple dinner?	game/convince.rpy	99
+tooDangerousForDinner_2f61306f	f	Hah. You worry too much! That's {i}clearly{/i} not going to happen.	game/convince.rpy	117
+tooDangerousForDinner_9b2df253	f	Where did you even come up with that? Have you just been sitting home today, coming up with things that could go wrong tonight?	game/convince.rpy	118
+tooDangerousForDinner_57b28dc2	f	Lighten up! We're just having dinner! There's not a whole lot that can actually go wrong with dinner.	game/convince.rpy	120
+tooDangerousForDinner_bb1efecc	f	Deal.	game/convince.rpy	125
+tooDangerousForDinner_5da0f644	f	Okay. Let me turn it around then:\nWhat {i}can{/i} you do to convince me that going to dinner is a bad idea?	game/convince.rpy	128
+tooDangerousForDinner_5403368e	f	Sitting here at home, after a completely near-death-experience-free-day, it's hard to imagine anything really bad happening like you're saying.	game/convince.rpy	129
+tooDangerousForDinner_c7a1a60d	f	So what {i}can{/i} you say to make me believe you that actually I'm in terrible danger, and somehow you're the only one who knows anything about it?	game/convince.rpy	131
+tooDangerousForDinner_d0c460bd	f	Yeah. That's kind of the problem I'm running into.	game/convince.rpy	134
+tooDangerousForDinner_d806fd8a	f	I'm sorry. This is just all too weird for me.	game/convince.rpy	135
+tooDangerousForDinner_678c4d3f	f	I guess you've successfully weirded me out, though.	game/convince.rpy	136
+tooDangerousForDinner_6243d9fd	f	Do you mind if I just get dinner on my own? We can talk about this tomorrow.	game/convince.rpy	137
+tooDangerousForDinner_065caad8	f	Don't worry. I'll watch out for [currentThreat].	game/convince.rpy	138
+tooDangerousForDinner_5d27ce74		There is a click as she hangs up.	game/convince.rpy	139
+tooDangerousForDinner_c375ec5d	f	I... Why would you even bring that up?	game/convince.rpy	144
+tooDangerousForDinner_b94c25f0	f	And how do you even know about that?	game/convince.rpy	145
+tooDangerousForDinner_d9b9038b	f	Have you been talking to Mom? Or stalking me or something?	game/convince.rpy	146
+tooDangerousForDinner_4e528e1d	f	I'm not sure I'm comfortable with you digging around in my personal life like that.	game/convince.rpy	147
+tooDangerousForDinner_c2acdecf	f	I think... I'm going to call off dinner tonight.	game/convince.rpy	148
+tooDangerousForDinner_223f4d52	f	You've at least creeped me out enough to get out of dinner, at any rate.	game/convince.rpy	149
+tooDangerousForDinner_49705a76	f	I'm going to go find something myself. We'll talk more tomorrow, I guess.	game/convince.rpy	150
+tooDangerousForDinner_93d131ca	f	What? How would you know about that?	game/convince.rpy	153
+tooDangerousForDinner_830e8b23	f	Oh god, have you somehow been reading my diary?	game/convince.rpy	154
+tooDangerousForDinner_7bdb189e	f	Or are you some kind of creepy stalker or something?	game/convince.rpy	155
+tooDangerousForDinner_22a957a7	f	Well, congratulations, I guess. You've convinced me that having dinner with you {i}is{/i} probably a bad idea.	game/convince.rpy	156
+tooDangerousForDinner_db57a5a5	f	I... Yeah. We'll talk about this tomorrow, maybe. I can't deal with this right now.	game/convince.rpy	157
+tooDangerousForDinner_d0775eaf	f	How would you even find out about that?	game/convince.rpy	160
+tooDangerousForDinner_d15a0536	f	Did Mom tell you that or something? Why were you talking to Mom in the first place?	game/convince.rpy	161
+tooDangerousForDinner_9c4dec7a	f	Or are those horrible pictures still around somewhere?	game/convince.rpy	162
+tooDangerousForDinner_ce807a1f	f	Okay. I think you're right. We {i}shouldn't{/i} have dinner tonight.	game/convince.rpy	163
+tooDangerousForDinner_898b9492	f	Don't worry, I'll keep an eye out for [currentThreat].	game/convince.rpy	164
+saidMagicWord_33c6bd29	f	Why can't you tell me now?	game/convince.rpy	171
+saidMagicWord_a04f0184	f	Wait.	game/convince.rpy	172
+saidMagicWord_1f3f2540	f	How do you even {i}know{/i} about the local Hogwarts pickup stop?	game/convince.rpy	173
+saidMagicWord_986bb84d	f	Are we talking about the same place?	game/convince.rpy	174
+saidMagicWord_052837ea	f	I'm... hmm. Let me think. No, I'm {i}positive{/i} I never told anyone about that.	game/convince.rpy	175
+saidMagicWord_0ffa008f	f	I didn't even write it in my diary.	game/convince.rpy	176
+saidMagicWord_9cf4ea6b	f	There is literally {i}no way{/i} you could know about that.	game/convince.rpy	177
+saidMagicWord_437682c7	f	That thing. That you just said.	game/convince.rpy	178
+saidMagicWord_569eddac	f	It's not scientifically possible!	game/convince.rpy	179
+saidMagicWord_f2d46393	f	YOU are not scientifically possible!	game/convince.rpy	180
+saidMagicWord_3ec57d49	f	...	game/convince.rpy	181
+saidMagicWord_13de18b6	f	But you've got me {i}really{/i} curious now.	game/convince.rpy	182
+saidMagicWord_c12920f3	f	{i}Something{/i} weird is clearly going on around here. And it involves {i}my{/i} secret Hogwarts pickup stop, so I aim to get to the bottom of it.	game/convince.rpy	183
+saidMagicWord_3ec57d49_1	f	...	game/convince.rpy	184
+saidMagicWord_350f53d2	f	Okay, so here's what we'll do. I'll go to that spot now. You'll come and meet me there.	game/convince.rpy	185
+saidMagicWord_6d0fdaa5	f	If we end up at the same spot, the spot which there is no {i}possible way{/i} you could know about, then you will have a lot of explaining to do.	game/convince.rpy	186
+saidMagicWord_c677a7b1		There is a <<Click>> as the phone is hung up.	game/convince.rpy	187
+randomPhrase_78ef9254		There is a pause, and the sound of someone rifling through the pages of a book.	game/convince.rpy	194
+randomPhrase_9b70606d	f	Okay, I'll play along. I'm not sure what this will prove though.	game/convince.rpy	195
+randomPhrase_6fa0db8e	f	I have a book here. I've just opened it up to a random page. Now what?	game/convince.rpy	196
+randomPhrase_792e79cb	f	Okay... Are we doing some kind of fortune-cookie thing here?	game/convince.rpy	199
+randomPhrase_77f8ff86	f	I'm on page... 144. The first sentence is {i}'What's 'pulling wobblers' mean?' he said'.{/i}	game/convince.rpy	200
+randomPhrase_afa768d2	f	Not sure what that says about our future, but there it is.	game/convince.rpy	201
+randomPhrase_c8e9faa2	f	So... Now what?	game/convince.rpy	203
+randomPhrase_ac0ff955	f	Actually, I think I know what. I think I'm going to go have dinner.	game/convince.rpy	204
+randomPhrase_e18a69f1	f	I think you've successfully convinced me that we shouldn't have dinner together.	game/convince.rpy	205
+randomPhrase_ae9c5b7d	f	I'm just too weirded out now.	game/convince.rpy	206
+randomPhrase_9d8b6304	f	We'll talk about this later, I guess. This has all been very strange.	game/convince.rpy	207
+randomPhrase_5f633294	f	Okay...	game/convince.rpy	212
+randomPhrase_5cfce78b	f	This whole conversation has been...	game/convince.rpy	213
+randomPhrase_031b821f	f	Disquieting.	game/convince.rpy	214
+randomPhrase_7bd5265b	f	You know what? I think maybe you're right.	game/convince.rpy	215
+randomPhrase_77387115	f	I'm going to skip out tonight, and go grab dinner myself, I think.	game/convince.rpy	216
+randomPhrase_a33aafd1	f	Don't worry, I'll try to make sure to stay away from [currentThreat].	game/convince.rpy	217
+randomPhrase_5371d300		There is stunned silence for a moment.	game/convince.rpy	221
+randomPhrase_3e868c43	f	How did you...	game/convince.rpy	222
+randomPhrase_ec20a2c8	f	Are you... looking into my room somehow?	game/convince.rpy	223
+randomPhrase_cdbd97ab	f	That's... that's really not cool, okay?	game/convince.rpy	224
+randomPhrase_e8b51724	f	Really not cool.	game/convince.rpy	225
+randomPhrase_2ca5d5cd	f	I think we're done here. I am not having dinner with a weirdo stalker.	game/convince.rpy	226
+randomPhrase_7db86dfb	f	Good night.	game/convince.rpy	227
+wentOnHerOwn_7e189477		After a few moments, there is the sound of an airplane, getting closer and closer, followed by one of the loudest noises you have ever heard.	game/convince.rpy	235
+wentOnHerOwn_3732626c		The TV in the background switches to an emergency report about the plane crash and fires that are happening right now.	game/convince.rpy	236
+wentOnHerOwn_c36f6bf1		Even before the news confirms it, though, you have a pretty good idea exactly who the plane crashed on top of.	game/convince.rpy	238
+wentOnHerOwn_fd8d239e		{size=+10}~The End~{/size}\n\nYou didn't even get to have a date, and it still ended in disaster.	game/convince.rpy	241
+hilltopConversationRoot_ab30e589		In the night's stillness, the sound of gunshots is quite clear, even from far away.	game/hilltopconversation.rpy	33
+hilltopConversationRoot_0212b508		Several blinking police lights appear and trace their way towards the Burger Shack.	game/hilltopconversation.rpy	34
+hilltopConversationRoot_d77229eb		Just as they start to arrive, there is a bright flash and another loud noise. The Burger Shack now seems to be very much on fire.	game/hilltopconversation.rpy	35
+hilltopConversationRoot_f088d8b4	f	You know, I had been thinking about asking if you wanted to do burgers tonight.	game/hilltopconversation.rpy	36
+hilltopConversationRoot_b7dfb263	f	Guess I can see how {i}that{/i} would have turned out.	game/hilltopconversation.rpy	37
+hilltopConversationRoot_bebb406f		For a moment, neither of you can really see anything amiss, but then a motion catches your eye. Felicia obviously sees it too.	game/hilltopconversation.rpy	41
+hilltopConversationRoot_1d5ffec2		At first it just looks like shadows flowing from rooftop to rooftop.	game/hilltopconversation.rpy	42
+hilltopConversationRoot_4f893410	f	What are... are those... ninjas?	game/hilltopconversation.rpy	43
+hilltopConversationRoot_96a20e18	f	Wow.	game/hilltopconversation.rpy	46
+hilltopConversationRoot_287de5cf		She squints.	game/hilltopconversation.rpy	48
+hilltopConversationRoot_08b401f4	f	Yeah, I'm pretty sure those are ninjas.	game/hilltopconversation.rpy	49
+hilltopConversationRoot_a9f86f6a	f	But... That's stupid. Ninjas are Japanese. Why would they show up at a Thai restaurant?	game/hilltopconversation.rpy	51
+hilltopConversationRoot_68a49215	f	This game of yours is kind of absurd, you know?	game/hilltopconversation.rpy	52
+hilltopConversationRoot_d99772d5		The ninjas leap from rooftop to rooftop, almost eerie in the fluidity of their motion.	game/hilltopconversation.rpy	53
+hilltopConversationRoot_510f0cab		When they reach the roof of the Thai restaurant, they regroup, and then, in one smooth movement, flip over the roof and into the windows.	game/hilltopconversation.rpy	54
+hilltopConversationRoot_ce5083cb		The faint sound of yelling reaches you atop the hill.	game/hilltopconversation.rpy	55
+hilltopConversationRoot_2ac5f618		She looks out toward the water. After a moment, she gives a small gasp.	game/hilltopconversation.rpy	58
+hilltopConversationRoot_e4d2ec6c		The Taco Palace is covered in motion. At first it's difficult to tell exactly what is going on, but then your brain starts to piece together what you're seeing.	game/hilltopconversation.rpy	59
+hilltopConversationRoot_73fefbc0		The entire building is covered in tentacles, livid green in the harsh illumination of the outdoor lamps.	game/hilltopconversation.rpy	60
+hilltopConversationRoot_4f27f3a5		From the thrashing of the water, it is clear that they are attached to something truly massive.	game/hilltopconversation.rpy	61
+hilltopConversationRoot_5b2c467d		It never becomes visible, though - Instead, the Taco Palace's supports buckle, and with a groan, the whole building is pulled into the churning water.	game/hilltopconversation.rpy	62
+hilltopConversationRoot_e2a28fdc		Felicia is quiet, watching it sink under the waves.	game/hilltopconversation.rpy	63
+hilltopConversationRoot_1861a3a7	f	You know, I never thought I'd say this, but some of these ways I apparently die are straight out of B-movies.	game/hilltopconversation.rpy	64
+hilltopConversationRoot_23ff239f	f	Okay! I confess a certain amount of interest in the topic. Where do you want to start?	game/hilltopconversation.rpy	67
+hilltopConversationRoot_18d9a9aa	f	Hah. That's a pretty big question.	game/hilltopconversation.rpy	74
+hilltopConversationRoot_dc74a7a0	f	I assume you mean about the game you're playing, but you have to admit, game or no game, it's the right kind of question to be pondering on a hilltop, watching shooting stars.	game/hilltopconversation.rpy	76
+hilltopConversationRoot_2cd343c1	f	I assume you mean about the game you're playing, but you have to admit, game or no game, it's the right kind of question to be pondering on a hilltop, looking up at the stars.	game/hilltopconversation.rpy	78
+hilltopConversationRoot_1b8ddabc	f	Heck, I can't see the game. I mean, I see the absurd things that have been going on tonight. And your explanation rings true and all.	game/hilltopconversation.rpy	79
+hilltopConversationRoot_b996e7a6	f	But from my point of view, I'm not in a game. And it's still a good question.	game/hilltopconversation.rpy	80
+hilltopConversationRoot_13c7b430	f	Maybe the answers are the same?	game/hilltopconversation.rpy	81
+hilltopConversationRoot_109d0490	f	You're basically asking 'why do bad things happen', right? That's something people have been asking since forever.	game/hilltopconversation.rpy	82
+hilltopConversationRoot_91f4c074	f	Yeah, that would be kind of a tall order. So maybe that's not what this game is about.	game/hilltopconversation.rpy	85
+hilltopConversationRoot_de72f33b	f	That question might just be tangential to whatever the author is trying to tell you.	game/hilltopconversation.rpy	86
+hilltopConversationRoot_83c724dd	f	So maybe we're not asking the right question, then.	game/hilltopconversation.rpy	87
+hilltopConversationRoot_36fd60a3	f	Yeah, I guess they do, don't they?	game/hilltopconversation.rpy	89
+hilltopConversationRoot_56ec807c	f	Maybe we're asking the wrong question, then.	game/hilltopconversation.rpy	90
+hilltopConversationRoot_e4de7666	f	After all, the game is clearly about {i}something{/i}.	game/hilltopconversation.rpy	91
+hilltopConversationRoot_ca3b7eef	f	I don't know what the game looks like from your end, but from mine, well...	game/hilltopconversation.rpy	92
+hilltopConversationRoot_1b8b77df	f	I can't see anyone going through the trouble of making a game as weird as this, without having {i}something{/i} on their mind that they wanted to say.	game/hilltopconversation.rpy	93
+hilltopConversationRoot_96b819e4	f	Say - What does the game look like, anyway? To me, it just looks like, you know, life. What's it like for you?	game/hilltopconversation.rpy	94
+hilltopConversationRoot_e249b7f3	f	Oh. That sounds pretty low-budget.	game/hilltopconversation.rpy	97
+hilltopConversationRoot_90b667e9	f	That's too bad. If I'm not actually real, and my whole existence is actually a lie, and all that, it would be nice to at least know it was a high-budget lie with nice graphics.	game/hilltopconversation.rpy	98
+hilltopConversationRoot_1dc00bc1	f	Okay, this time I know you're pulling my leg. I'm old enough to remember 'Blast Processing' too, you know.	game/hilltopconversation.rpy	100
+hilltopConversationRoot_2ab6efee	f	WHAT? HOW DARE YOU MAKE FUN OF MY GAME.	game/hilltopconversation.rpy	102
+hilltopConversationRoot_062037c6	f	SEE HOW CRAPPY IT IS ONCE I DELETE ALL YOUR SAVE GAMES!	game/hilltopconversation.rpy	103
+hilltopConversationRoot_44f93b05	f	DELETING...	game/hilltopconversation.rpy	104
+hilltopConversationRoot_6d158f71	f	Ahaha, was that convincing?	game/hilltopconversation.rpy	105
+hilltopConversationRoot_1a27d636	f	Although... Now I'm wondering... Did I just say that because I thought it would be funny?	game/hilltopconversation.rpy	106
+hilltopConversationRoot_c1d256ab	f	Or because an all-powerful disgruntled game author wrote me to {i}want{/i} to do it, and then made me try to explain it away as me just making a joke?	game/hilltopconversation.rpy	107
+hilltopConversationRoot_80f96e03	f	And while we're going down the rabbit hole - did they then decide to lampshade the whole thing by making me wonder this?	game/hilltopconversation.rpy	108
+hilltopConversationRoot_71c06a31	f	...If this {i}is{/i} all a game, then the person who wrote it seems kind of odd in the head.	game/hilltopconversation.rpy	109
+hilltopConversationRoot_5d6fe7c8	f	Hey! That's kind of a personal question!	game/hilltopconversation.rpy	113
+hilltopConversationRoot_8f6c5e0e		She giggles.	game/hilltopconversation.rpy	114
+hilltopConversationRoot_067a0afc	f	I don't know. I'm not really sure how to answer that.	game/hilltopconversation.rpy	115
+hilltopConversationRoot_49acf673	f	I mean, I haven't exactly been kicking over tombstones or tripping old gypsy ladies or anything lately.	game/hilltopconversation.rpy	116
+hilltopConversationRoot_1b791e7b	f	I can honestly say that this is a bit outside my experience. So I don't really have any idea why it keeps happening.	game/hilltopconversation.rpy	117
+hilltopConversationRoot_2b3822ee	f	How would you even go about diagnosing something like that?	game/hilltopconversation.rpy	118
+hilltopConversationRoot_4e37ca0b	f	"Excuse me doctor, but can you tell me why I'm doomed?"	game/hilltopconversation.rpy	119
+hilltopConversationRoot_c936e81c	f	I mean, I don't know. Let's think about this. How does it usually work in video games?	game/hilltopconversation.rpy	120
+hilltopConversationRoot_b9ee21d0	f	Maybe I'm just supposed to die a tragic death, like Aeris or something.	game/hilltopconversation.rpy	121
+hilltopConversationRoot_e7ed78e7	f	Oh come on, that game is nearly old enough to vote.	game/hilltopconversation.rpy	126
+hilltopConversationRoot_fdff9c3b	f	The statute of limitations is {i}clearly{/i} up on that one.	game/hilltopconversation.rpy	127
+hilltopConversationRoot_b3ea9949	f	Wait, seriously?	game/hilltopconversation.rpy	129
+hilltopConversationRoot_9c8dac71	f	You never played Final Fantasy 7?	game/hilltopconversation.rpy	130
+hilltopConversationRoot_48e7493d	f	I'm not sure if we can be friends any more.	game/hilltopconversation.rpy	131
+hilltopConversationRoot_3461f207	f	Well, anyway, she was a character in a game. She died, and everyone got really upset.	game/hilltopconversation.rpy	132
+hilltopConversationRoot_2b38c8c3	f	Because, you know, it was kind of out of the blue. Back then, games usually only killed side characters. Not core party-members that you'd had time to become invested in.	game/hilltopconversation.rpy	133
+hilltopConversationRoot_167c04da	f	A lot of fans didn't take it well. They didn't like losing her, and didn't like realizing that there was absolutely nothing you could do to save her.	game/hilltopconversation.rpy	134
+hilltopConversationRoot_b8a1d003	f	Anyway, maybe it's like that. I'm supposed to die in order to, you know, embolden you! Strengthen your resolve, so you can complete your epic quest!	game/hilltopconversation.rpy	135
+hilltopConversationRoot_fcc824d7	f	Hehe.	game/hilltopconversation.rpy	136
+hilltopConversationRoot_4a58287c	f	But on the other hand, if the game always ends right after I die, and if there are a bunch of ways I can die, then that does seem to imply that you're supposed to find a way to avoid it.	game/hilltopconversation.rpy	137
+hilltopConversationRoot_dcb53f2b		She seems lost in thought for a moment, watching the falling stars streak across the sky.	game/hilltopconversation.rpy	139
+hilltopConversationRoot_7e7049a8		She seems lost in thought for a moment.	game/hilltopconversation.rpy	141
+hilltopConversationRoot_502a71f5	f	I suppose... I guess, don't take this the wrong way, but...	game/hilltopconversation.rpy	142
+hilltopConversationRoot_7526fa4e	f	You could say I keep dying because of you.	game/hilltopconversation.rpy	143
+hilltopConversationRoot_a624df83	f	But...	game/hilltopconversation.rpy	144
+hilltopConversationRoot_9ddd14ea	f	On one hand, you could say I keep dying because we haven't figured out how to save me yet.	game/hilltopconversation.rpy	145
+hilltopConversationRoot_28005685	f	But on a deeper level... You could say that I keep dying because you keep playing.	game/hilltopconversation.rpy	146
+hilltopConversationRoot_8647dac0	f	For example, if you'd stopped after the first time I died, then I would have only died once.	game/hilltopconversation.rpy	147
+hilltopConversationRoot_b21046b0	f	I'm not saying that's preferable. But what would happen to me, to the world, if you just stopped playing?	game/hilltopconversation.rpy	148
+hilltopConversationRoot_3183da96	f	Would I stay dead? What if you quit the game before I died?	game/hilltopconversation.rpy	149
+hilltopConversationRoot_ba792713	f	What happens to characters in a story, if the storyteller stops before he's done?	game/hilltopconversation.rpy	150
+hilltopConversationRoot_7a07e692		She falls silent again, watching the shooting stars.	game/hilltopconversation.rpy	152
+hilltopConversationRoot_8b26ec40		She falls silent again, lost in thought.	game/hilltopconversation.rpy	154
+hilltopConversationRoot_e5634d5e	f	I don't know. I mean, you've done a reasonable job so far, right?	game/hilltopconversation.rpy	159
+hilltopConversationRoot_e704f663	f	Apparently you've saved me from a lot of things that might have happened.	game/hilltopconversation.rpy	160
+hilltopConversationRoot_65c1d956	f	So I guess you're doing okay so far.	game/hilltopconversation.rpy	161
+hilltopConversationRoot_69116a47	f	Cheer up! You've managed to put off losing for a while.	game/hilltopconversation.rpy	164
+hilltopConversationRoot_189766cc	f	How hard can it be to come up with a way to win?	game/hilltopconversation.rpy	165
+hilltopConversationRoot_ae8be902	f	You'll figure it out. You got this far, right?	game/hilltopconversation.rpy	167
+hilltopConversationRoot_645e517f	f	I wish I could be more help. I feel like I haven't been very helpful so far, except for occasionally following instructions to not die.	game/hilltopconversation.rpy	168
+hilltopConversationRoot_e2d2e3ba	f	I guess if this really is all a video game, and I'm a character in it, and the game wants me dead, then I probably won't be allowed to just hand you the answer.	game/hilltopconversation.rpy	169
+hilltopConversationRoot_3ec57d49	f	...	game/hilltopconversation.rpy	170
+hilltopConversationRoot_5030fe8a	f	Hehehe.	game/hilltopconversation.rpy	171
+hilltopConversationRoot_4f42672d	f	If this is a video game, and you're spending all of your time trying to save me, I wonder if that means it will get blasted for promoting unfortunate gender stereotypes.	game/hilltopconversation.rpy	172
+hilltopConversationRoot_e104596f	f	"Yet another helpless video game girl to rescue! Why can't we advance the medium beyond these stone-age stereotypes, which always treat women as mere objects to be rescued!"	game/hilltopconversation.rpy	173
+hilltopConversationRoot_9607574b	f	That would serve the author right.	game/hilltopconversation.rpy	174
+hilltopConversationRoot_d7d4b3d0	f	Hmm. That's true, I guess.	game/hilltopconversation.rpy	176
+hilltopConversationRoot_e505cb79	f	Although I guess one question I have is - what do you mean, 'win'?	game/hilltopconversation.rpy	177
+hilltopConversationRoot_da8c1585	f	What would winning a game like this mean?	game/hilltopconversation.rpy	178
+hilltopConversationRoot_2b807fbd	f	What exactly are you looking to get out of this?	game/hilltopconversation.rpy	179
+hilltopConversationRoot_302f7d8f	f	Are you really just waiting for the game to pat you on the head, and say 'Well done, you finally did the right thing?'	game/hilltopconversation.rpy	187
+hilltopConversationRoot_a4342cc3	f	Hmm.	game/hilltopconversation.rpy	188
+hilltopConversationRoot_865e8f05	f	Well, how about this. I'm part of the game, right?	game/hilltopconversation.rpy	189
+hilltopConversationRoot_b718643b	f	Can I do it?	game/hilltopconversation.rpy	190
+hilltopConversationRoot_9b234044	f	Here -	game/hilltopconversation.rpy	191
+hilltopConversationRoot_000a1142	f	Congratulations! A winner is you! You have beaten the game! Well done!	game/hilltopconversation.rpy	192
+hilltopConversationRoot_ef95d6ba	f	I assume that made the message you were looking for show up on your screen.	game/hilltopconversation.rpy	193
+hilltopConversationRoot_6bf60afe	f	Does that count?	game/hilltopconversation.rpy	195
+hilltopConversationRoot_13d77dcb	f	Awesome! Glad I could help!	game/hilltopconversation.rpy	198
+hilltopConversationRoot_a7819760	f	....	game/hilltopconversation.rpy	199
+hilltopConversationRoot_152e2c5f	f	I'm still totally going to die from aliens, aren't I?	game/hilltopconversation.rpy	201
+hilltopConversationRoot_681b785a	f	I'm still totally going to die in a few minutes, aren't I?	game/hilltopconversation.rpy	203
+hilltopConversationRoot_782ca896	f	I'll believe my happy ending when I see it.	game/hilltopconversation.rpy	206
+hilltopConversationRoot_577282c7	f	Figures.	game/hilltopconversation.rpy	208
+hilltopConversationRoot_b4dcdbd4	f	That's too bad.	game/hilltopconversation.rpy	210
+hilltopConversationRoot_401d8743	f	I guess I'm not 'official' enough or something?	game/hilltopconversation.rpy	211
+hilltopConversationRoot_3502da92	f	I'd go grab my top-hat and monocle, but I doubt I have time, at this point.	game/hilltopconversation.rpy	212
+hilltopConversationRoot_48a2c4af	f	So...	game/hilltopconversation.rpy	213
+hilltopConversationRoot_0da3decb	f	You seem convinced that it's even possible to 'win' this game.	game/hilltopconversation.rpy	214
+hilltopConversationRoot_1b3be626	f	How do you know that a 'good ending' even exists?	game/hilltopconversation.rpy	215
+hilltopConversationRoot_06d3a9d7	f	Yeah, maybe. Although, not all books end happily. Maybe not all games do either?	game/hilltopconversation.rpy	218
+hilltopConversationRoot_8e18fb3a	f	That does seem like a weird game to make though. A happy start to a day, and then just everything ending badly, no matter what you do.	game/hilltopconversation.rpy	219
+hilltopConversationRoot_c11dccf0	f	I guess it could be a commentary on the pointlessness of life, and oh, the sadness, everything will die, woe is me.	game/hilltopconversation.rpy	220
+hilltopConversationRoot_67e08710	f	But if I had to rate my life so far, or even my day so far, it doesn't {i}feel{/i} like a goth emo game of darkness and howling void.	game/hilltopconversation.rpy	221
+hilltopConversationRoot_0ab1eb28	f	I don't know. I don't pretend to know what this is all about, but from what you've told me, and what I've seen, I don't think it's as simple as that.	game/hilltopconversation.rpy	222
+hilltopConversationRoot_17ce54a9	f	But I don't think the author is just saying, 'Ha ha, you played my game with no ending for however long, you wasted your time, L-O-L'.	game/hilltopconversation.rpy	223
+hilltopConversationRoot_dfabef7a	f	Hmm. That's usually true, I guess.	game/hilltopconversation.rpy	225
+hilltopConversationRoot_0e61f9ad	f	I wonder if the author of the game agrees with you?	game/hilltopconversation.rpy	226
+hilltopConversationRoot_b41103bc	f	I guess you could make a puzzle that was missing a piece or something, if you were trying to make a statement.	game/hilltopconversation.rpy	227
+hilltopConversationRoot_1a70273d	f	Like a box of jigsaw pieces, missing a single piece, as a pretentious art installation.	game/hilltopconversation.rpy	228
+hilltopConversationRoot_16aefd88	f	I don't know - does this game feel pretentious to you?	game/hilltopconversation.rpy	229
+hilltopConversationRoot_62acbb94	f	Maybe that's not it then.	game/hilltopconversation.rpy	232
+hilltopConversationRoot_d8f1fd97	f	Hmm. Could be, then.	game/hilltopconversation.rpy	234
+hilltopConversationRoot_c77ce477	f	Maybe that's it, then. Maybe it's just there to make a statement for the sake of being a statement?	game/hilltopconversation.rpy	236
+hilltopConversationRoot_5b054dbc	f	That does seem like an odd way to go about it, though...	game/hilltopconversation.rpy	237
+hilltopConversationRoot_9ad7f685		She leans back and goes quiet for a moment.	game/hilltopconversation.rpy	239
+hilltopConversationRoot_47e723f5		She leans back and looks up at all the shooting stars, lost in thought.	game/hilltopconversation.rpy	241
+hilltopConversationRoot_fdc2277b	f	Although... I guess if you have a box full of jigsaw pieces, and you're missing a piece...	game/hilltopconversation.rpy	242
+hilltopConversationRoot_e049e785	f	The message might just be... "Look outside the box..."	game/hilltopconversation.rpy	243
+hilltopConversationRoot_026f37ee	f	I'm not sure.	game/hilltopconversation.rpy	245
+hilltopConversationRoot_0db46e77	f	Maybe to see how long you'll look for one?	game/hilltopconversation.rpy	246
+hilltopConversationRoot_52b58bfc	f	Or to bring attention to the idea that not all mazes {i}have{/i} exits?	game/hilltopconversation.rpy	247
+hilltopConversationRoot_297e70bc	f	Or maybe it's just to force you to pick for yourself where you want to stop, rather than pointing to a spot and telling you that it's where you should try to go?	game/hilltopconversation.rpy	248
+hilltopConversationRoot_9ae3eefd	f	Well, according to you, what you're missing is the answer to a puzzle.	game/hilltopconversation.rpy	252
+hilltopConversationRoot_2f24360c	f	Although, if you want my opinion, I think you might also be missing a clear idea of exactly what it will look like when you find it.	game/hilltopconversation.rpy	253
+hilltopConversationRoot_5aefe8dd	f	But let's think through it.	game/hilltopconversation.rpy	254
+hilltopConversationRoot_cf31b99f	f	You've gotten this far by saving and loading your games to make sure that you never make mistakes, right?	game/hilltopconversation.rpy	255
+hilltopConversationRoot_699782ec	f	But now you're worried that there might not actually {i}be{/i} a choice you can make that leads to what you want?	game/hilltopconversation.rpy	257
+hilltopConversationRoot_1f05e810	f	Are you worrying now that I'll die anyway, no matter what choices you make?	game/hilltopconversation.rpy	259
+hilltopConversationRoot_acb0b47c	f	If you've reached the end of what you can accomplish with good choices, then all that's left are bad choices, right?	game/hilltopconversation.rpy	260
+hilltopConversationRoot_871649c0	f	What else can you do, right? If your choices are all bad ones, then you either have to pick one anyway... or stop playing by the game's rules.	game/hilltopconversation.rpy	261
+hilltopConversationRoot_261d1685		She nervously fiddles with her hat for a moment.	game/hilltopconversation.rpy	263
+hilltopConversationRoot_0080d686	f	Did you ever see the movie {i}Groundhog Day{/i}, with Bill whats-his-name? Murney? Murray? Bill Murray, I think.	game/hilltopconversation.rpy	264
+hilltopConversationRoot_90bd363d	f	Oh, cool. Wasn't that a great movie?	game/hilltopconversation.rpy	267
+hilltopConversationRoot_c6ab3a05	f	Anyway, I'm just thinking about how that movie ended.	game/hilltopconversation.rpy	268
+hilltopConversationRoot_be900220	f	What?!? But... it's like the best existential comedy ever!	game/hilltopconversation.rpy	270
+hilltopConversationRoot_4b67cb56	f	You should totally see it!	game/hilltopconversation.rpy	271
+hilltopConversationRoot_e29c808a	f	But anyway, it was about a guy who's a total jerk to everyone, and then he has this day, Groundhog Day, where he can't get out.	game/hilltopconversation.rpy	272
+hilltopConversationRoot_4cf077a4	f	Like, every morning, no matter what he does during the day, he wakes up, and it's Groundhog Day again.	game/hilltopconversation.rpy	273
+hilltopConversationRoot_26dd2262	f	And at first he's like 'this sucks' and sulks a lot.	game/hilltopconversation.rpy	274
+hilltopConversationRoot_bfa984ce	f	And then he's like 'this is awesome!' and uses his knowledge of how the day will go to totally mess with everyone.	game/hilltopconversation.rpy	275
+hilltopConversationRoot_0cf6b8af	f	Like by the end he's learned everything about everyone in town, and can surprise people with things like 'Hey, how's your novel coming?'	game/hilltopconversation.rpy	276
+hilltopConversationRoot_e88c3e1a	f	And they're all confused, since they never told him about it. Except they did, last time he replayed the day.	game/hilltopconversation.rpy	277
+hilltopConversationRoot_17cce506	f	Except then, he goes back to 'this sucks', because he is still stuck in the same day forever, with people who he knows intimately now, but who never remember him each morning when it resets.	game/hilltopconversation.rpy	278
+hilltopConversationRoot_7bd6546e	f	He kept doing all the things with the townsfolk, and making changes. But ultimately, he couldn't get out until he changed himself in some way.	game/hilltopconversation.rpy	279
+hilltopConversationRoot_fa821f53	f	I wonder if this is sort of like that?	game/hilltopconversation.rpy	280
+hilltopConversationRoot_4c65a8c2	f	Obviously it isn't a perfect analogy. But maybe the choice you need to make to 'win' isn't something that you can {i}do{/i}, but rather something you have to {i}be{/i}?	game/hilltopconversation.rpy	281
+hilltopConversationRoot_4b4946a5	f	I assume it's hard because it's trying to tell one of us something.	game/hilltopconversation.rpy	286
+hilltopConversationRoot_7a6c55b6	f	Although, I guess the other option is just that you're bad at games.	game/hilltopconversation.rpy	287
+hilltopConversationRoot_78007235	f	But it sounds like you've already made it a ways in this one, if you've averted my death multiple times already.	game/hilltopconversation.rpy	288
+hilltopConversationRoot_c4a4bab2	f	Maybe the problem is just that you're looking for the wrong thing?	game/hilltopconversation.rpy	289
+hilltopConversationRoot_d43a81e4	f	You got this far by saving and reloading away all of the mistakes until you had a day where you had done everything perfectly, right?	game/hilltopconversation.rpy	290
+hilltopConversationRoot_aa5c2cee	f	And now we're here.	game/hilltopconversation.rpy	291
+hilltopConversationRoot_e5ffd577		She gestures up at the sky, still covered in shooting stars.	game/hilltopconversation.rpy	293
+hilltopConversationRoot_079c19ce	f	Which, honestly, is still kind of perfect, in its own way.	game/hilltopconversation.rpy	294
+hilltopConversationRoot_c52adf04		She makes a vague gesture at the starry expanse over your heads.	game/hilltopconversation.rpy	296
+hilltopConversationRoot_09aa5b9c	f	And it's still kind of perfect, honestly.	game/hilltopconversation.rpy	297
+hilltopConversationRoot_139bede8	f	Even knowing that I'm... Probably going to die soon. It's still kind of magical.	game/hilltopconversation.rpy	299
+hilltopConversationRoot_ca80e5f5		She's quiet for a moment.	game/hilltopconversation.rpy	300
+hilltopConversationRoot_22fbdc7b	f	This actually reminds me of a different game, now that I think of it.	game/hilltopconversation.rpy	301
+hilltopConversationRoot_19275503	f	Did you ever play {i}Chrono Trigger{/i}, back on the Super Nintendo?	game/hilltopconversation.rpy	303
+hilltopConversationRoot_f4b27cfa	f	Yeah, wasn't that game great? It had that ending, though, that reminds me of this.	game/hilltopconversation.rpy	306
+hilltopConversationRoot_7c1eecae	f	Do you remember how that game ended, if you died?	game/hilltopconversation.rpy	307
+hilltopConversationRoot_73068639	f	Ahh, it was a great game. It was about some kids who build a time machine, see. And they go to the future, and discover that the world is doomed.	game/hilltopconversation.rpy	310
+hilltopConversationRoot_7634ee90	f	It's all going to be eaten up by this giant alien, and everyone is miserable or dead.	game/hilltopconversation.rpy	311
+hilltopConversationRoot_0a2785c0	f	So most of the game is you, playing the kids, bouncing around through time, trying to figure out what they have to do to change the future, so that it doesn't end up all awful.	game/hilltopconversation.rpy	312
+hilltopConversationRoot_3896fec4	f	It had an ending, though, that reminds me a lot of this.	game/hilltopconversation.rpy	313
+hilltopConversationRoot_6428c9bc	f	Whenever you hit a game over, it would show you the world of the future, right as the disaster hit.	game/hilltopconversation.rpy	314
+hilltopConversationRoot_30ca8b38	f	Explosions spread across it, and you saw the planet from space, slowly turning grey.	game/hilltopconversation.rpy	315
+hilltopConversationRoot_cff1874a	f	And then it had this horrible alien sound, and words appeared, saying 'But... the Future Refused to Change.'	game/hilltopconversation.rpy	316
+hilltopConversationRoot_2d01e504	f	Gave me chills as a kid, honestly. Was way more powerful than just a generic 'game over' screen.	game/hilltopconversation.rpy	317
+hilltopConversationRoot_44d0aed4	f	Anyway, I was just reminded of it because... Yeah. All of this.	game/hilltopconversation.rpy	318
+hilltopConversationRoot_e3ebaf4b	f	You're basically trying to do the same thing - fix the bad future that you know is coming.	game/hilltopconversation.rpy	319
+hilltopConversationRoot_b3b32bc1	f	But it keeps refusing to budge.	game/hilltopconversation.rpy	320
+hilltopConversationRoot_5e0a1f42	f	I'm not sure what to suggest. If you were playing Chrono Trigger, you could go punch an alien until the future got better.	game/hilltopconversation.rpy	321
+hilltopConversationRoot_e79e15ae	f	That solution might not be applicable to this problem, though.	game/hilltopconversation.rpy	322
+hilltopConversationRoot_06398373		She sighs.	game/hilltopconversation.rpy	324
+hilltopConversationRoot_593d439b	f	That was such a good game.	game/hilltopconversation.rpy	325
+hilltopConversationRoot_60634ff3	f	You should really play that game sometime. It was really good.	game/hilltopconversation.rpy	327
+hilltopConversationRoot_d952edd4	f	Oh. Okay. More cheating death, I assume?	game/hilltopconversation.rpy	333
+hilltopConversationRoot_534fd462	f	[prompt]	game/hilltopconversation.rpy	338
+hilltopConversationRoot_b3ea9949_1	f	Wait, seriously?	game/hilltopconversation.rpy	341
+hilltopConversationRoot_d38828f2	f	Is it just me, or are these deaths getting more and more improbable?	game/hilltopconversation.rpy	342
+hilltopConversationRoot_73f6c91c	f	Wait, you're serious?	game/hilltopconversation.rpy	344
+hilltopConversationRoot_d38828f2_1	f	Is it just me, or are these deaths getting more and more improbable?	game/hilltopconversation.rpy	345
+hilltopConversationRoot_8a8f4b3d	f	Fine. Keep me in suspense. See if I care.	game/hilltopconversation.rpy	347
+hilltopConversationRoot_b668d6f8		She moves over to the opposite side of the bench.	game/hilltopconversation.rpy	348
+hilltopConversationRoot_fd7ac897	f	So if that death is averted, what kills me after that? Or am I in the clear?	game/hilltopconversation.rpy	351
+hilltopConversationRoot_8b7d6aeb	f	Oh, exciting!	game/hilltopconversation.rpy	354
+hilltopConversationRoot_3ec57d49_1	f	...	game/hilltopconversation.rpy	355
+hilltopConversationRoot_384d9d16	f	But, given that I've already died several times today, you'll understand if I remain a bit on edge.	game/hilltopconversation.rpy	356
+hilltopConversationRoot_3f8ed06e	f	Yes, because that sounds entirely in keeping with how the rest of this day has gone.	game/hilltopconversation.rpy	358
+hilltopConversationRoot_50ef902b	f	Seriously. Don't try to sugarcoat this for me. This is messed up enough as it is.	game/hilltopconversation.rpy	359
+hilltopConversationRoot_444e6931	f	If I'm going to die again, I'd rather you just flat-out tell me.	game/hilltopconversation.rpy	360
+hilltopConversationRoot_56046258	f	So, seriously. What do I have to look forward to this time?	game/hilltopconversation.rpy	361
+hilltopConversationRoot_577282c7_1	f	Figures.	game/hilltopconversation.rpy	364
+hilltopConversationRoot_e73a40df	f	I assume that's when the space aliens show up?	game/hilltopconversation.rpy	368
+hilltopConversationRoot_123d3610	f	Why do I get the feeling that whoever wrote this whole scenario has stopped taking anything seriously?	game/hilltopconversation.rpy	369
+hilltopConversationRoot_e672f0a7	f	So what gets me next time?	game/hilltopconversation.rpy	371
+hilltopConversationRoot_93605a32	f	Well, guess we'll find out, then.	game/hilltopconversation.rpy	374
+hilltopConversationRoot_8e257e41	f	Personally, I'm still hoping for a happy ending, but today does not seem to be my day for that.	game/hilltopconversation.rpy	375
+hilltopConversationRoot_9cedb894	f	Fine. Suit yourself, I guess. I'll find out either way.	game/hilltopconversation.rpy	377
+hilltopConversationRoot_d82ee8f1	f	But I'd feel better knowing about what's coming.	game/hilltopconversation.rpy	378
+hilltopConversationRoot_59aa2090	f	Erm. Aliens?	game/hilltopconversation.rpy	383
+hilltopConversationRoot_313aca05	f	Like from... Across the border? ... Or...	game/hilltopconversation.rpy	384
+hilltopConversationRoot_3b8de8fd	f	The space kind? For real? You're serious?	game/hilltopconversation.rpy	385
+hilltopConversationRoot_97d5b453	f	This day just keeps getting less and less plausible.	game/hilltopconversation.rpy	386
+hilltopConversationRoot_8a696692	f	Okay, so there will be space aliens. What comes after that?	game/hilltopconversation.rpy	387
+hilltopConversationRoot_cecab0f9	f	Got it. One thing at a time, I guess.	game/hilltopconversation.rpy	390
+hilltopConversationRoot_89d9f5b2	f	I wouldn't mind one of those.	game/hilltopconversation.rpy	392
+hilltopConversationRoot_485979e5	f	Right. If you've already found that, then why are you back here, reliving meteors and alien invasions?	game/hilltopconversation.rpy	394
+hilltopConversationRoot_d184a121		For a few minutes, you just ignore everything, and watch the spectacle taking place in the sky above you.	game/hilltopconversation.rpy	399
+hilltopConversationRoot_79384ae4		You have to admit it really is rather breathtaking.	game/hilltopconversation.rpy	400
+hilltopConversationRoot_553ce1df		It's like watching fireworks, except that there is no beginning, and no end. Just a constant stream of fire across the night sky.	game/hilltopconversation.rpy	401
+hilltopConversationRoot_3df6b312		Felicia is the first to break the silence.	game/hilltopconversation.rpy	402
+hilltopConversationRoot_1edb774a	f	Have you ever thought about how stories work?	game/hilltopconversation.rpy	403
+hilltopConversationRoot_7e6d461b	f	Yeah. Me too. I used to be really obsessive over them.	game/hilltopconversation.rpy	406
+hilltopConversationRoot_87c497ac	f	Like what makes one work. What separates a story from, I don't know, dry facts or something.	game/hilltopconversation.rpy	407
+hilltopConversationRoot_4e982175	f	Oh cool! Me too! I used to think about them all the time.	game/hilltopconversation.rpy	409
+hilltopConversationRoot_6e95c7d1	f	Not about particular stories, but about how they work as a medium, and why we love them so much.	game/hilltopconversation.rpy	410
+hilltopConversationRoot_cc43b430	f	Oh. I think about stories a lot. What I'd do if I was in one. Whether or not I'm in one right now. That kind of thing.	game/hilltopconversation.rpy	412
+hilltopConversationRoot_cbb2e1dc	f	Of course, after tonight, well. Games are probably close enough.	game/hilltopconversation.rpy	413
+hilltopConversationRoot_8594fb72	f	Have you ever thought about where a story lives? Like where it, I don't know how to really say this... where it {i}exists?{/i}	game/hilltopconversation.rpy	414
+hilltopConversationRoot_840afa42	f	I used to think that stories lived in, you know, books. Or in the mind of the person telling the story. Or whatever.	game/hilltopconversation.rpy	415
+hilltopConversationRoot_8f8e75c9	f	But I think stories live in the brain of whoever's listening to it.	game/hilltopconversation.rpy	416
+hilltopConversationRoot_e14ea5d6	f	When someone tells us a story, we go along with whatever they say. Because that's the easiest thing to do.	game/hilltopconversation.rpy	417
+hilltopConversationRoot_cd0bf771	f	But what if they stopped telling us what to do?	game/hilltopconversation.rpy	418
+hilltopConversationRoot_4efee029	f	What if someone told you a story, and then stopped before telling you how it ends? Is the story dead forever? Doomed to be forever unfinished?	game/hilltopconversation.rpy	419
+hilltopConversationRoot_276e4a5d	f	What if you like the story and {i}want{/i} an ending? Even if you didn't start it, are you allowed to finish it yourself?	game/hilltopconversation.rpy	420
+hilltopConversationRoot_3af987d4	f	It's in your head at that point, right? You can do whatever you want with it. Who's going to stop you?	game/hilltopconversation.rpy	421
+hilltopConversationRoot_0492cdc4	f	And then... What if they {i}did{/i} finish telling you the story... But you just didn't like how it ended?	game/hilltopconversation.rpy	422
+hilltopConversationRoot_5273a84c	f	What if you just... decided that it ended a different way than they said?	game/hilltopconversation.rpy	423
+hilltopConversationRoot_a2de1f50	f	The very act of storytelling is itself a deeply collaborative activity, right?	game/hilltopconversation.rpy	424
+hilltopConversationRoot_cf5ad53d	f	They have to tell a story. And you have to play it out in your mind while they tell you. That's how it works, right?	game/hilltopconversation.rpy	425
+hilltopConversationRoot_c25b19c7	f	What would happen if the audience rebelled? And played a different story in their minds than the one that was being told? Would that story be any less valid or real?	game/hilltopconversation.rpy	427
+hilltopConversationRoot_ea5affdd	f	Well, obviously I {i}can{/i}. I guess your point is that I shouldn't.	game/hilltopconversation.rpy	430
+hilltopConversationRoot_3971e912	f	By whose rules though?	game/hilltopconversation.rpy	431
+hilltopConversationRoot_518b5c71	f	Maybe the storyteller isn't really the ultimate authority. Maybe they're just making suggestions and hoping that people follow them.	game/hilltopconversation.rpy	432
+hilltopConversationRoot_44c32c6e	f	Sure. It's the 'official' ending. The one that anyone else who's heard the same story will count as the end.	game/hilltopconversation.rpy	434
+hilltopConversationRoot_f9ca6625	f	But that doesn't mean it has to be the ending I choose.	game/hilltopconversation.rpy	435
+hilltopConversationRoot_63ed49cf	f	Well, aren't you already doing that?	game/hilltopconversation.rpy	437
+hilltopConversationRoot_9b698411	f	Every time you reloaded from a saved game. Every time you hit an ending you didn't like, and restarted to try something different.	game/hilltopconversation.rpy	438
+hilltopConversationRoot_ad320df9	f	How are those any different?	game/hilltopconversation.rpy	439
+hilltopConversationRoot_951e3c87	f	Aren't you already changing the story when you're dissatisfied with the direction it goes?	game/hilltopconversation.rpy	440
+hilltopConversationRoot_d5a800ee	f	Yeah. I guess so.	game/hilltopconversation.rpy	442
+hilltopConversationRoot_bc26abce	f	This is a game, right? If regular storytelling wasn't collaborative enough already, game-storytelling kicks it up to a whole new level.	game/hilltopconversation.rpy	443
+hilltopConversationRoot_f8373713	f	In a book or movie, the author can at least know that you'll read everything exactly as he wrote it.	game/hilltopconversation.rpy	444
+hilltopConversationRoot_0ea0fe35	f	Someone writing a game, though, already has to cede a ton of control to the player, just to make it a game.	game/hilltopconversation.rpy	445
+hilltopConversationRoot_7bbe15bf	f	The player can already make the game tell an entirely different story than the one the author envisioned, just in how they play.	game/hilltopconversation.rpy	446
+hilltopConversationRoot_42523622	f	Maybe they make the hero die, instead of save the day. Maybe they don't turn out to be a bad enough dude to save the president after all.	game/hilltopconversation.rpy	447
+hilltopConversationRoot_e9d6e498	f	So if you can do that, do you even need the game to tell you the rest of the story?	game/hilltopconversation.rpy	448
+hilltopConversationRoot_93961657	f	If I'm in a story, and the ultimate controller of this story is...	game/hilltopconversation.rpy	449
+hilltopConversationRoot_2fdad380	f	...you...	game/hilltopconversation.rpy	450
+hilltopConversationRoot_ac652903	f	...then theoretically you should be able to just decide that it ends however you want. And it will.	game/hilltopconversation.rpy	451
+hilltopConversationRoot_a60a2040	f	I have faith! You can make the story go wherever you want! All you have to do is stop listening to the game's plans for the story, and start following your own!	game/hilltopconversation.rpy	454
+hilltopConversationRoot_c828c5b3	f	Although, if you're taking suggestions for the ending, might I suggest that I'd love to win the lottery and own a private tropical island.	game/hilltopconversation.rpy	455
+hilltopConversationRoot_a921df0e	f	Just saying.	game/hilltopconversation.rpy	456
+hilltopConversationRoot_52ebf857	f	.....	game/hilltopconversation.rpy	457
+hilltopConversationRoot_9882c0db	f	So... You're still here. I'm still here.	game/hilltopconversation.rpy	458
+hilltopConversationRoot_789b3aac	f	You've already been mangling the story by reloading, restarting, and undoing your choices after you see where they lead. Why are you getting cold feet now? What's the problem here?	game/hilltopconversation.rpy	459
+hilltopConversationRoot_1c6f4e22	f	Seriously. Quit the game. Walk away. Write whatever ending you want for me in your head.	game/hilltopconversation.rpy	460
+hilltopConversationRoot_1ffa4025	f	Whatever you imagine by yourself will be {i}every bit as real and valid{/i} as whatever the game is telling you to imagine.	game/hilltopconversation.rpy	461
+hilltopConversationRoot_a7819760_1	f	....	game/hilltopconversation.rpy	462
+hilltopConversationRoot_bc3de88b	f	Why are we still here? Why haven't you started writing your own ending yet?	game/hilltopconversation.rpy	463
+hilltopConversationRoot_219ef102	f	Oh. I guess I was expecting something more immediate and dramatic. I guess I'm not really in a position to criticize, though.	game/hilltopconversation.rpy	466
+hilltopConversationRoot_499dadab	f	So what happens now? I assume it's safe for me to go home now, without fear of dying stupidly?	game/hilltopconversation.rpy	467
+hilltopConversationRoot_558ccce4	f	That feels kind of anti-climactic.	game/hilltopconversation.rpy	468
+hilltopConversationRoot_8987280c		She walks over to her bike, parked next to the statue on the top of the hill.	game/hilltopconversation.rpy	469
+hilltopConversationRoot_b0aea484		Somehow you're not even surprised when the statue starts to lean, and then topples over, directly onto her.	game/hilltopconversation.rpy	472
+hilltopConversationRoot_70100e2e	f	It was worth a try, I guess. Although I'm still not quite sure how it can {i}not{/i} work like that.	game/hilltopconversation.rpy	475
+hilltopConversationRoot_060ab6c2	f	I don't understand how it's different from, oh, I don't know, me making up stories about my family in The Sims when I'm not playing, or something.	game/hilltopconversation.rpy	476
+hilltopConversationRoot_ea43b3f3	f	Anyway, what now?	game/hilltopconversation.rpy	477
+hilltopConversationRoot_a96681a2	f	Seriously? Seriously??? What the heck. Are you for real?	game/hilltopconversation.rpy	479
+hilltopConversationRoot_4a990007		You don't think you've ever seen her this angry before.	game/hilltopconversation.rpy	480
+hilltopConversationRoot_9baef8bb	f	You're sitting there telling me that you agree, but that you're just not ... {i}willing{/i} to take responsibility for the story?	game/hilltopconversation.rpy	481
+hilltopConversationRoot_4d07c397	f	All because you want to see if I say anything {i}interesting{/i} before the game inevitably kills me?	game/hilltopconversation.rpy	482
+hilltopConversationRoot_52d525ff	f	I cannot {i}believe{/i} you!	game/hilltopconversation.rpy	483
+hilltopConversationRoot_fc94b51d	f	Fine, you want something interesting? I wouldn't dream of disappointing you.	game/hilltopconversation.rpy	484
+hilltopConversationRoot_e8fa16c1	f	I'm leaving. Is that interesting enough?	game/hilltopconversation.rpy	485
+hilltopConversationRoot_42455f4a		She turns around suddenly.	game/hilltopconversation.rpy	488
+hilltopConversationRoot_9c05f9d7	f	No. I don't think I have actually.	game/hilltopconversation.rpy	489
+hilltopConversationRoot_681501b4	f	Here's the deal. I'm leaving now. If you're right, I'll probably die soon anyway.	game/hilltopconversation.rpy	490
+hilltopConversationRoot_f30c3a10	f	On the other hand, if {i}I'm{/i} right, then you can make this end whenever you want, just by deciding not to listen when the game says 'and then Felicia died,' or whatever.	game/hilltopconversation.rpy	491
+hilltopConversationRoot_3fd9d1ff	f	So if you {i}really{/i} want conversation, you're going to have to make a choice.	game/hilltopconversation.rpy	492
+hilltopConversationRoot_dcce12f8	f	You can keep playing and letting the game dictate its story to you, and watch me bike away until my tire explodes or whatever it is that kills me this time.	game/hilltopconversation.rpy	493
+hilltopConversationRoot_40ba4852	f	Or, you can take responsibility for the stories going on {i}in your own head,{/i} and make them go where you want.	game/hilltopconversation.rpy	494
+hilltopConversationRoot_5e77ed9b	f	And then we can have all the conversations you want.	game/hilltopconversation.rpy	495
+hilltopConversationRoot_0bb76a42	f	The choice is yours, but you'd better decide quickly, because I'm leaving.	game/hilltopconversation.rpy	496
+hilltopConversationRoot_5d5ab41e		She walks over to her bike.	game/hilltopconversation.rpy	497
+hilltopConversationRoot_34994670	f	Don't care!	game/hilltopconversation.rpy	499
+hilltopConversationRoot_88753539	f	So? If I stay, I'll just die some other way.	game/hilltopconversation.rpy	501
+hilltopConversationRoot_0f41505d	f	If you're just here to explore dialog trees, then why should I help?	game/hilltopconversation.rpy	502
+hilltopConversationRoot_bb1d168c	f	I'm leaving.	game/hilltopconversation.rpy	503
+hilltopConversationRoot_12cad8a4		Predictably, that's when the statue falls on her.	game/hilltopconversation.rpy	504
+hilltopConversationRoot_8541d0ed	f	Oh. I see. It's hard for you.	game/hilltopconversation.rpy	508
+hilltopConversationRoot_f23b945e	f	Because, of course, you're not the one who's going to die shortly in this story.	game/hilltopconversation.rpy	509
+hilltopConversationRoot_6bc5fbfd	f	Again.	game/hilltopconversation.rpy	510
+hilltopConversationRoot_f6e071d2	f	All right. Fine. You know what?	game/hilltopconversation.rpy	511
+hilltopConversationRoot_37998562	f	I'm going to see if I can't force the issue.	game/hilltopconversation.rpy	512
+hilltopConversationRoot_c68e86f0	f	Here's what I'm going to do.	game/hilltopconversation.rpy	513
+hilltopConversationRoot_9da0858d		She moves back to her old spot on the bench, before you told her to move.	game/hilltopconversation.rpy	516
+hilltopConversationRoot_26297597		Felicia is now sitting exactly where the meteor will hit.	game/hilltopconversation.rpy	517
+hilltopConversationRoot_9b577dec	f	I'm going to sit right here.	game/hilltopconversation.rpy	518
+hilltopConversationRoot_90bd938b	f	According to you, this is going to get me killed, and soon.	game/hilltopconversation.rpy	519
+hilltopConversationRoot_50ae3b00	f	I'm going to sit right here and not move.	game/hilltopconversation.rpy	521
+hilltopConversationRoot_8d2bc4aa	f	I'm guessing this will get me killed relatively soon.	game/hilltopconversation.rpy	522
+hilltopConversationRoot_fa14f992	f	So you can either walk away from the game before it does, and fill in whatever story you want.	game/hilltopconversation.rpy	523
+hilltopConversationRoot_19dddfd7	f	Or.	game/hilltopconversation.rpy	524
+hilltopConversationRoot_8133020a	f	You can sit and watch me die again, knowing that you know full well how to stop it, and you either won't, or can't.	game/hilltopconversation.rpy	525
+hilltopConversationRoot_a0790c36		She sits there, glaring at you.	game/hilltopconversation.rpy	526
+hilltopConversationRoot_3b4d8d87	f	Better decide quickly. That shooting star looks like it's heading straight at us.	game/hilltopconversation.rpy	527
+hilltopConversationRoot_0f3a5336		Sure enough, one shooting star in particular is getting brighter and louder as it rockets towards the hilltop.	game/hilltopconversation.rpy	528
+hilltopConversationRoot_d52d481e		There is a flash, and a boom that you feel through your feet as much as your ears.	game/hilltopconversation.rpy	529
+hilltopConversationRoot_0440b886		When you can see again, there is a smoking crater, centered almost exactly where Felicia was sitting.	game/hilltopconversation.rpy	530
+hilltopConversationRoot_ef1a7e2b		Her hat, still on fire, gently drifts to the ground at your feet. It's the only thing that survived the meteor's impact.	game/hilltopconversation.rpy	531
+hilltopConversationRoot_ea024b75	f	I'm going to sit right here and wait for the aliens to show up.	game/hilltopconversation.rpy	535
+hilltopConversationRoot_ffd6a1b4	f	Geez, I sound like a crazy person when I say that.	game/hilltopconversation.rpy	536
+hilltopConversationRoot_b98eb790	f	Look what you've driven me to!	game/hilltopconversation.rpy	537
+hilltopConversationRoot_18f66aa2	f	But that's not the point! I'm still mad at you!	game/hilltopconversation.rpy	538
+hilltopConversationRoot_50ae3b00_1	f	I'm going to sit right here and not move.	game/hilltopconversation.rpy	540
+hilltopConversationRoot_8d2bc4aa_1	f	I'm guessing this will get me killed relatively soon.	game/hilltopconversation.rpy	541
+hilltopConversationRoot_8e102631	f	So. You can either walk away from the game before they show up to kill me. And then you can fill in whatever story you want.	game/hilltopconversation.rpy	542
+hilltopConversationRoot_19dddfd7_1	f	Or.	game/hilltopconversation.rpy	543
+hilltopConversationRoot_8133020a_1	f	You can sit and watch me die again, knowing that you know full well how to stop it, and you either won't, or can't.	game/hilltopconversation.rpy	544
+hilltopConversationRoot_a0790c36_1		She sits there, glaring at you.	game/hilltopconversation.rpy	545
+hilltopConversationRoot_2ba8694f	f	Better decide quickly. I think I see some flying saucers in the sky now.	game/hilltopconversation.rpy	547
+hilltopConversationRoot_aedbaed3	f	Is that really how I die this time? This is so lame.	game/hilltopconversation.rpy	549
+hilltopConversationRoot_47995729	f	Well, here they come. I hope you make up your mind soon.	game/hilltopconversation.rpy	551
+hilltopConversationRoot_3685dd52		Abruptly, there is a blinding green light, and a sound not unlike a giant rubber band twanging.	game/hilltopconversation.rpy	552
+hilltopConversationRoot_d1349f85		A shaft of light lances down from one of the saucers overhead and bathes you both in greenish radiance.	game/hilltopconversation.rpy	553
+hilltopConversationRoot_b2fb67ff		You have just enough time to hear Felicia mutter 'Seriously...' before you are both reduced to stardust by the aliens' cosmic rays.	game/hilltopconversation.rpy	554
+hilltopConversationRoot_b86459f9		She seems a little crestfallen.	game/hilltopconversation.rpy	557
+hilltopConversationRoot_68ce159d	f	Pity. It was worth a try, I guess. Although I'm still not quite sure how it can {i}not{/i} work like that.	game/hilltopconversation.rpy	558
+hilltopConversationRoot_ed938425	f	But you're the one who can actually see the game, so I guess I have to believe you. What else can we try?	game/hilltopconversation.rpy	559
+hilltopConversationRoot_13677949		You get the impression that there was something more she wanted to say, but then she lapses back into silence, apparently deep in thought.	game/hilltopconversation.rpy	562
+hilltopConversationRoot_4277cf67	f	So this is when the aliens show up?	game/hilltopconversation.rpy	567
+hilltopConversationRoot_27cfe098	f	This will be novel, if nothing else. I guess if I'm going to die, I might as well enjoy the spectacle.	game/hilltopconversation.rpy	568
+hilltopConversationRoot_86b8d2e2	f	Is it?	game/hilltopconversation.rpy	570
+hilltopConversationRoot_8cb95692	f	So what kills me this time? And what do you need me to do?	game/hilltopconversation.rpy	571
+hilltopConversationRoot_561cecce	f	Oh.	game/hilltopconversation.rpy	574
+hilltopConversationRoot_590dd1dd	f	That's depressing. If we weren't talking about my impending death, I think I'd be really upset that the game has to resort to space aliens, you know?	game/hilltopconversation.rpy	575
+hilltopConversationRoot_561cecce_1	f	Oh.	game/hilltopconversation.rpy	578
+hilltopConversationRoot_badcfb77	f	That bad, is it?	game/hilltopconversation.rpy	579
+hilltopConversationRoot_a7819760_2	f	....	game/hilltopconversation.rpy	580
+hilltopConversationRoot_6afabbe6	f	Will you reload after I'm dead? I know I won't remember this then, but... Will you be back?	game/hilltopconversation.rpy	581
+hilltopConversationRoot_561cecf6	f	That's good. That makes me feel better, somehow. Even though it doesn't change anything for me now, it still makes me feel better.	game/hilltopconversation.rpy	584
+hilltopConversationRoot_1828a6f1	f	Oh. I see.	game/hilltopconversation.rpy	586
+hilltopConversationRoot_141b40ce	f	Well, I guess I'll be beyond caring before too long.	game/hilltopconversation.rpy	587
+hilltopConversationRoot_5b143b17	f	But I think I'm going to keep hoping you get an eleventh-hour epiphany, if it's all the same to you.	game/hilltopconversation.rpy	588
+hilltopConversationRoot_1e0595b7	f	That's how good stories always end, right? Last-minute acts of brilliance and discovery?	game/hilltopconversation.rpy	589
+hilltopConversationRoot_3c2f68a2	f	I think I'll keep on hoping for that.	game/hilltopconversation.rpy	590
+hilltopConversationRoot_51c827d6	f	Oh. Oh! That's wonderful news!	game/hilltopconversation.rpy	592
+hilltopConversationRoot_8d4d6ed7	f	What was it? What's the solution?	game/hilltopconversation.rpy	593
+hilltopConversationRoot_c71ed807	f	Oh. Okay. Well, it's still exciting that you figured it out.	game/hilltopconversation.rpy	596
+hilltopConversationRoot_cd7f91b1	f	I'm burning with curiosity here. As soon as you feel like you can tell me, please do!	game/hilltopconversation.rpy	597
+hilltopConversationRoot_561cecce_2	f	Oh.	game/hilltopconversation.rpy	599
+hilltopConversationRoot_3c6991fe	f	Dang.	game/hilltopconversation.rpy	600
+hilltopConversationRoot_12c822f7	f	Well, it was worth a try, I guess.	game/hilltopconversation.rpy	601
+hilltopConversationRoot_8ef767f9	f	So... The part where I die.	game/hilltopconversation.rpy	602
+hilltopConversationRoot_53154d51	f	Will... um... Will it hurt?	game/hilltopconversation.rpy	603
+hilltopConversationRoot_5f7996ce	f	What? But I thought you'd done it before. Or right. I guess you don't end up feeling it.	game/hilltopconversation.rpy	606
+hilltopConversationRoot_6274a8e3	f	You just get your 'game over' screen, and you're done.	game/hilltopconversation.rpy	607
+hilltopConversationRoot_991fb338	f	Doesn't seem quite fair, honestly, but I guess that's life.	game/hilltopconversation.rpy	608
+hilltopConversationRoot_d6f6a5e5	f	Or, you know. Whatever.	game/hilltopconversation.rpy	609
+hilltopConversationRoot_427df7fc	f	Oh. Right. Yeah, I guess that's true.	game/hilltopconversation.rpy	611
+hilltopConversationRoot_6274a8e3_1	f	You just get your 'game over' screen, and you're done.	game/hilltopconversation.rpy	612
+hilltopConversationRoot_991fb338_1	f	Doesn't seem quite fair, honestly, but I guess that's life.	game/hilltopconversation.rpy	613
+hilltopConversationRoot_d6f6a5e5_1	f	Or, you know. Whatever.	game/hilltopconversation.rpy	614
+hilltopConversationRoot_bf84d06b	f	Okay. I'll try.	game/hilltopconversation.rpy	616
+hilltopConversationRoot_c741f5d1	f	It's kind of hard, though. It's just there. In the all-too-near future. Looming.	game/hilltopconversation.rpy	617
+timeTicksOnward_3b382f13		The night's silence surrounds you.	game/hilltopconversation.rpy	639
+timeTicksOnward_1f07206b		Suddenly there is a light, and movement in the sky. A moment later, another. And then the sky is full of them.	game/hilltopconversation.rpy	641
+timeTicksOnward_839d3180		Shooting stars, raining from the sky, your own personal celestial fireworks display.	game/hilltopconversation.rpy	643
+timeTicksOnward_5f8ef99c	f	Ooooh. This is beautiful! Did you know these would be here? Is this why you picked this spot?	game/hilltopconversation.rpy	644
+timeTicksOnward_1169b76f		She gazes up in silent wonder.	game/hilltopconversation.rpy	645
+timeTicksOnward_045241c4		One of the shooting stars catches your eye. It's looking especially bright.	game/hilltopconversation.rpy	649
+timeTicksOnward_9cc39cfe	f	Oh wow, look at that one!	game/hilltopconversation.rpy	650
+timeTicksOnward_9048aeb8		With a monstrous roaring noise, it gets bigger and bigger. There is a flash, and a boom that you feel through your feet as much as your ears.	game/hilltopconversation.rpy	651
+timeTicksOnward_0440b886		When you can see again, there is a smoking crater, centered almost exactly where Felicia was sitting.	game/hilltopconversation.rpy	653
+timeTicksOnward_ef1a7e2b		Her hat, still on fire, gently drifts to the ground at your feet. It's the only thing that survived the meteor's impact.	game/hilltopconversation.rpy	654
+timeTicksOnward_9dc82919		When you can see again, there is a smoking crater, about ten feet across, centered almost exactly where Felicia had been sitting before she moved.	game/hilltopconversation.rpy	658
+timeTicksOnward_7382c127	f	Well, that was exciting. You even warned me and everything, and it was {i}still{/i} scary.	game/hilltopconversation.rpy	659
+timeTicksOnward_a4fa95ae		The shooting stars continue their silent, fiery cascade across the sky.	game/hilltopconversation.rpy	661
+unexpectedAliens_0e83218d	f	Oh, what's that? Look, the stars are changing color!	game/hilltopconversation.rpy	689
+unexpectedAliens_d7b3e77f		You look up and realize she's right. Now the shooting stars are changing.	game/hilltopconversation.rpy	690
+unexpectedAliens_16a9ab1c		Where before they were just quick white scratches against the sky, now they are slower streaks, of all different colors.	game/hilltopconversation.rpy	691
+unexpectedAliens_9f01492c		They seem to be moving more slowly as well. One of the larger ones passes almost directly overhead.	game/hilltopconversation.rpy	692
+unexpectedAliens_81d54d4f		It looks a little odd, though. It almost seems like...	game/hilltopconversation.rpy	693
+unexpectedAliens_28e939bc	f	Oh, come on. Flying saucers?\n{i}Seriously?{/i}	game/hilltopconversation.rpy	694
+unexpectedAliens_c0439e65	f	I don't mean to criticize, but this game of yours is not even pretending to take itself seriously any more.	game/hilltopconversation.rpy	695
+unexpectedAliens_eecf04af		At that moment, there is a blinding green light, and a sound not unlike a giant rubber band twanging.	game/hilltopconversation.rpy	696
+unexpectedAliens_d1349f85		A shaft of light lances down from one of the saucers overhead and bathes you both in greenish radiance.	game/hilltopconversation.rpy	697
+unexpectedAliens_b2fb67ff		You have just enough time to hear Felicia mutter 'Seriously...' before you are both reduced to stardust by the aliens' cosmic rays.	game/hilltopconversation.rpy	698
+expectedAliens_8df333cd	f	Look. I think your aliens have arrived. The city is burning.	game/hilltopconversation.rpy	706
+expectedAliens_075f8d91		Sure enough, the air is now full of flying saucers, whizzing about. Several buildings are visibly on fire.	game/hilltopconversation.rpy	707
+expectedAliens_44255e95	f	I guess you were right about, well... all of this.	game/hilltopconversation.rpy	708
+expectedAliens_604e992b	f	It's probably safe to stop hoping that this is all some kind of trick or something.	game/hilltopconversation.rpy	709
+expectedAliens_be740bb9	f	Somehow, though, I knew, ever since we came up here, that what you were saying was true.	game/hilltopconversation.rpy	710
+expectedAliens_a7819760	f	....	game/hilltopconversation.rpy	711
+expectedAliens_bb7d9250	f	I'm glad we waited for it like this. It feels braver, somehow, facing it head-on.	game/hilltopconversation.rpy	712
+expectedAliens_a7819760_1	f	....	game/hilltopconversation.rpy	713
+expectedAliens_f3f0a1db	f	I guess this is the end.	game/hilltopconversation.rpy	714
+expectedAliens_1989f73a	f	Got any last words for me?	game/hilltopconversation.rpy	715
+expectedAliens_5d64fa08		She actually smiles at that. It looks almost absurd, set against such a backdrop of destruction.	game/hilltopconversation.rpy	718
+expectedAliens_bd6abe56	f	You too. You... You take care, you hear?	game/hilltopconversation.rpy	719
+expectedAliens_6fb2a67d	f	I hope you find what you're looking for.	game/hilltopconversation.rpy	720
+expectedAliens_3a2bd7da	f	I know.	game/hilltopconversation.rpy	722
+expectedAliens_94cc2e80	f	You just have that look somehow. Even if... Even if I won't remember any of this next time around, I'm glad I got to be here.	game/hilltopconversation.rpy	723
+expectedAliens_cc6146b2	f	Thanks. For everything, I mean. For going to so much trouble on my account and all.	game/hilltopconversation.rpy	724
+expectedAliens_2860f3f6	f	You'll figure it out, I'm sure.	game/hilltopconversation.rpy	725
+expectedAliens_3389ef70	f	How should I know? We've already established that I'm probably not a good source of insight into the author's mind.	game/hilltopconversation.rpy	727
+expectedAliens_b16622e3	f	That being said, though...	game/hilltopconversation.rpy	728
+expectedAliens_f57a53bb	f	Somehow I doubt it.	game/hilltopconversation.rpy	729
+expectedAliens_11718981		At that moment, there is a blinding green flash, and a sound not unlike a giant rubber band twanging.	game/hilltopconversation.rpy	730
+expectedAliens_d1349f85		A shaft of light lances down from one of the saucers overhead and bathes you both in greenish radiance.	game/hilltopconversation.rpy	731
+expectedAliens_cddd0631		You have just enough time to see Felicia flash you one last, infectious grin before you are both reduced to stardust by the aliens' cosmic rays.	game/hilltopconversation.rpy	732
+start_5b8e7efc		*Ring* *Ring*	game/script.rpy	55
+start_52a2934d		*Ring* *Ring*\n*Ring* *Ring*	game/script.rpy	57
+start_9e06539b	f	Hello?	game/script.rpy	58
+start_f4380cc0	f	Oh, you're early! You must be calling about tonight?	game/script.rpy	59
+start_d1a6fc18	f	I meant to ask where we were meeting!	game/script.rpy	60
+start_a84f14d1	f	I know we were planning on having dinner, but we never decided where!	game/script.rpy	61
+start_74cb6279	f	Where are we having dinner?	game/script.rpy	64
+start_30fadd6d	f	Sounds good! See you at the Burger Shack!	game/script.rpy	67
+start_6899425c	f	Ooh, I've never had Thai! That sounds fun!	game/script.rpy	73
+start_ba6043d3	f	Hooray for taco-night!	game/script.rpy	79
+start_881ec894	f	Oh. That sounds nice!	game/script.rpy	91
+start_78d4b3f9		The two of you have a delicious dinner in your magical floating sky castle!	game/script.rpy	92
+start_011483e1		Afterward you fly her home, because you can fly, because you are a hacker and super awesome!	game/script.rpy	93
+noDinner_9f128107		She seems hurt that you canceled your plans. When you see her the next day, she's friendly enough, but there's a barrier between you now.	game/script.rpy	111
+noDinner_ebdbb611		You remain friendly acquaintances, but that's as far as it ever goes. You never do manage to ask her to dinner again.	game/script.rpy	112
+noDinner_bf1b6ec0		Eventually, she starts seeing someone else. Years later, they have started a life together, and are extremely happy. You try not to envy them, but sometimes you wonder if things might have gone differently.	game/script.rpy	116
+noDinner_b7857395		{size=+10}~The End~{/size}\n\nYou never even got a date.	game/script.rpy	118
+noDinner_1615fd82		Eventually, she starts seeing someone else. Years later, they have started a life together, and are extremely happy. Sometimes you wonder if things might have gone differently.	game/script.rpy	120
+noDinner_494530e2		Not often, though. Because you have seen a lot of the ways it could have gone instead. And all of them are worse.	game/script.rpy	121
+noDinner_0124746d		On the balance, maybe this isn't such a bad place to end the story after all.	game/script.rpy	122
+noDinner_3733a45c		{size=+20}~The{/size} (or at least an) {size=+20}End~{/size}	game/script.rpy	123
+triedToLeave_6eabff28		You finish your [fooddesc] and head out.	game/script.rpy	129
+triedToLeave_cbea8e45		You haven't made it more than a foot from the door, though, when a car crashes into the front of the restaurant.	game/script.rpy	130
+triedToLeave_c32ad1b1		Unfortunately, the two of you are directly in it's path.	game/script.rpy	131
+triedToLeave_28a7740e		You are flung to the side, but Felicia is not so lucky.	game/script.rpy	132
+triedToLeave_5d495596		The ambulance arrives quickly, but she doesn't even make it to the hospital before succumbing to internal bleeding and a punctured lung.	game/script.rpy	134
+stayedAtRestaurant_b1724cce		Error, couldn't figure out where you were. currentLocation = [currentLocation]	game/script.rpy	146
+standardEnd_5cad338a		{size=+10}~The End~{/size}\n\nYour date has ended in disaster.	game/script.rpy	154
+hackerGoodEnding_d1548758		She grabs the mail on the way in and discovers that she has won like six different lotteries and is now independently wealthy.	game/script.rpy	159
+hackerGoodEnding_0a218590		She also now owns a small island paradise in the Caribbean, full of endangered wildlife and stuff.	game/script.rpy	160
+hackerGoodEnding_4ae12b6e		She is super happy! She moves there the next month, and has a happy, long, and fulfilling life taking care of exotic animals and playing with Bengal tigers.	game/script.rpy	161
+hackerGoodEnding_ec6ad0ec		She lives happily ever after, and you do too sometimes, when you visit, which you do by flying, which you can do because you're an awesome hacker.	game/script.rpy	162
+hackerGoodEnding_bf3901d6		Everyone involved lives happily ever after and nothing bad happens to them ever, and sometimes you think, 'Man, what a great life I have - good thing I'm a hacker!'	game/script.rpy	163
+hackerGoodEnding_dc18b6bb		{size=+10}~The End~{/size}\n\nYou are an awesome hacker!	game/script.rpy	164
+dinnerStart_thai_130ba48a	f	I've always wanted to try Thai food! This will be fun!	game/thai.rpy	7
+dinnerStart_thai_a17fefdf	"Server"	Are you ready to order?	game/thai.rpy	8
+dinnerStart_thai_99666556	f	I think so! This picture for Pad Thai looks amazing. I think I'll have that. What are you having?	game/thai.rpy	10
+dinnerStart_thai_e8d1749a	f	Excellent choice! May I compliment you on your class and taste!	game/thai.rpy	13
+dinnerStart_thai_a95dccf1	f	That sounds pretty good too! But no, I'm sticking with my first choice!	game/thai.rpy	15
+dinnerStart_thai_34e79071	f	Oooh. I do like seafood. But no. Pad Thai it is. It looks so delicious in the picture!	game/thai.rpy	17
+dinnerTalk_thai_312bc5b9		Eventually, dinner arrives, and Felicia dives into her meal with surprising gusto.	game/thai.rpy	29
+dinnerTalk_thai_35e80afa	f	Oh, this is delicious! We should have done this a long time ago!	game/thai.rpy	30
+dinnerTalk_thai_46efb199	f	I'm so glad we were able to meet tonight. Do you know why I wanted to do this?	game/thai.rpy	32
+dinnerTalk_thai_288a4841	f	Oh, good. That makes things easier.	game/thai.rpy	35
+dinnerTalk_thai_b86ff85d	f	Well...	game/thai.rpy	37
+dinnerTalk_thai_bd5e4acd		She actually looks flustered for a moment.	game/thai.rpy	40
+dinnerTalk_thai_a00fb6dd	f	I've been really wanting to ask you... well...	game/thai.rpy	41
+dinnerTalk_thai_359be6bf	f	Sorry, this is hard to say.	game/thai.rpy	42
+dinnerTalk_thai_38ef3fde		Felicia pauses for a moment, and takes a deep breath.	game/thai.rpy	43
+dinnerTalk_thai_2220da4f	f	...Really hard to say. I'm not feeling...	game/thai.rpy	44
+dinnerTalk_thai_0a8dac01	f	Were there peanuts in that dish or something? I don't...	game/thai.rpy	45
+dinnerTalk_thai_87d4ae91		She topples face-first into her food.	game/thai.rpy	49
+dinnerTalk_thai_38957c46		The rest of the evening is a blur of ambulances and yelling, but somehow you feel like you already know what is coming.	game/thai.rpy	50
+dinnerTalk_thai_00c21576		You're not really surprised when the ashen-faced medical technician comes to tell you what you already basically know: Felicia had a severe peanut allergy, and it killed her.	game/thai.rpy	51
+howDidYouKnow_peanuts_c7732941	f	Wait, for real? Oh... Wow. I'm glad you told me!	game/thai.rpy	60
+howDidYouKnow_peanuts_e892bc67	f	I'm actually like super-allergic to peanuts. That could have been really bad!	game/thai.rpy	61
+howDidYouKnow_peanuts_c9ca2b59	f	Actually it was kind of silly how they found out.	game/thai.rpy	62
+howDidYouKnow_peanuts_20af9b46	f	When I was little, I saw elephants on TV and decided that I wanted to be an elephant when I grew up.	game/thai.rpy	63
+howDidYouKnow_peanuts_5bffe0a9	f	So I ate some peanuts that my Dad had left out.	game/thai.rpy	64
+howDidYouKnow_peanuts_c85e4dab	f	And my face swelled up and got all puffy, and I was convinced that this was me, turning into an elephant, just like I'd planned!	game/thai.rpy	65
+howDidYouKnow_peanuts_a5dd4e65	f	So I stumbled into the living room with my face like twice its normal size, and slurred out, 'Look mama, look dada, I'm gonna be an elephant!'	game/thai.rpy	66
+howDidYouKnow_peanuts_b6ad8666	f	After I got back from the emergency room, we laughed about that for years.	game/thai.rpy	67
+howDidYouKnow_peanuts_6976d461		She looks almost wistful.	game/thai.rpy	68
+waitedTooLong_thai_331cd3a3		Suddenly, the restaurant is full of yelling, and there are shiny pieces of metal flying everywhere.	game/thai.rpy	75
+waitedTooLong_thai_98aafe39		Your last thought is something like, 'Why {i}are{/i} there ninjas in a Thai restaurant? Ninjas are Japanese...' before you are hit on the head with a nunchuck, and everything goes dark.	game/thai.rpy	76
+waitedTooLong_thai_88b8a3d7		You never do find out what the attack was all about. Some kind of underworld power struggle? Oddly-themed gang warfare? Sinister Naruto cosplayers?	game/thai.rpy	78
+waitedTooLong_thai_be93827e		In the end it doesn't really matter. Twelve people died in the attack.	game/thai.rpy	79
+waitedTooLong_thai_df16e206		Felicia was one of them.	game/thai.rpy	80
+waitedTooLong_thai_1dec344b		And you never even found out what it was about.	game/thai.rpy	81
+dinnerStart_burgers_01c70d1a	f	Oh wow, everything smells so good!	game/burgers.rpy	6
+dinnerStart_burgers_67827ec8	f	I had my doubts when you mentioned this place. It's out of the way, and in kind of a sketchy neighborhood, but this looks great!!	game/burgers.rpy	7
+dinnerStart_burgers_7a7ba0b4	f	I think I'll have.... the bacon-burger. With extra ketchup.	game/burgers.rpy	8
+dinnerStart_burgers_9245a0b2	f	What are you having?	game/burgers.rpy	10
+dinnerTalk_burgers_24b00025		Your meal is served, and you both dig in. After a few bites, she stops eating and looks wistful.	game/burgers.rpy	28
+dinnerTalk_burgers_0c906932	f	My Dad would have loved this place. He would have been right at home. He really loved burgers, and this place has great ambiance.	game/burgers.rpy	29
+dinnerTalk_burgers_150070c7		She rewards your question with a brittle smile.	game/burgers.rpy	34
+dinnerTalk_burgers_ca60e015	f	He left Mom and me when I was six.	game/burgers.rpy	35
+dinnerTalk_burgers_fb7c12f0		She looks directly at you for the first time since the meal was served.	game/burgers.rpy	36
+dinnerTalk_burgers_e3f59653	f	I'm sorry. I didn't mean to dump that on you out of the blue. I'm just not used to thinking about him.	game/burgers.rpy	37
+dinnerTalk_burgers_ea33c348	f	I honestly don't think it's ever come up since we moved here. Mom still tries to call him sometime, but I...	game/burgers.rpy	38
+dinnerTalk_burgers_aa9b23ff	f	It's easier if I just don't think about him.	game/burgers.rpy	39
+dinnerTalk_burgers_d642da71		She gives you a much warmer smile this time.	game/burgers.rpy	40
+dinnerTalk_burgers_70110112	f	But enough about my personal soap-opera life. I refuse to be upset in the face of such delicious hamburgers.	game/burgers.rpy	41
+dinnerTalk_burgers_9bfe8070		After a minute or two of poking at her food, she brightens up.	game/burgers.rpy	45
+dinnerTalk_burgers2_1cf01117		She takes another big bite out of her burger.	game/burgers.rpy	52
+dinnerTalk_burgers2_c7a090e4	f	So I've been thinking lately. About school. And what comes after.	game/burgers.rpy	53
+dinnerTalk_burgers2_7278cf33		You can hear some kind of commotion coming from outside. Felicia cranes her neck to try to see.	game/burgers.rpy	54
+dinnerTalk_burgers2_38b993e1	f	What's going on? Is something happening out there?	game/burgers.rpy	57
+deathByGunfire_6fbd6840		Suddenly, there is a loud noise from outside - a succession of loud bangs, like a string of firecrackers going off.	game/burgers.rpy	71
+deathByGunfire_89c30987	f	I...	game/burgers.rpy	72
+deathByGunfire_82c1dd14		It takes you a moment for the red stain spreading across her shirt to register.	game/burgers.rpy	73
+deathByGunfire_40ab2605		Felicia looks down in uncomprehending shock.	game/burgers.rpy	74
+deathByGunfire_7d722a74	f	I think I've... I've been shot?	game/burgers.rpy	75
+deathByGunfire_a541098c		Then, ever so slowly, she crumples into the booth.	game/burgers.rpy	78
+deathByGunfire_737d8c81		You're vaguely aware of more sounds of gunfire from outside, but all you can hear is Felicia's labored breathing, each ragged breath sounding louder than anything else in the world.	game/burgers.rpy	79
+deathByGunfire_bbe67957		It might have been minutes or centuries later when the ambulance arrives. A kind man with sad eyes loads her onto the gurney, and rushes her off.	game/burgers.rpy	80
+deathByGunfire_4cf47530		He tells you not to worry and that everything will be all right, but you both know he is lying. You heard the ragged breathing stop, and you saw the light fade from her eyes.	game/burgers.rpy	81
+deathByGunfire_c1876a0c		You never do find out what caused the gunfight in the street. Some gang scuffle, or a drug deal gone wrong, or something.	game/burgers.rpy	82
+deathByGunfire_f9398777		All you saw was the terrible aftermath.	game/burgers.rpy	83
+howDidYouKnow_gunfire_ffacdf91		She stares at you blankly for a moment, not sure if you're joking or not, and then awkwardly hunches over.	game/burgers.rpy	89
+howDidYouKnow_gunfire_46fcd247		There is a loud sound from outside, and an explosion of plaster showers down from the wall she was sitting in front of, moments ago.	game/burgers.rpy	90
+howDidYouKnow_gunfire_aed8b8b9	f	I... Oh my god. Was that gunfire?	game/burgers.rpy	91
+waitedTooLong_burgers_d7a0e016		Suddenly, everything goes white, and you're flying through the air.	game/burgers.rpy	100
+waitedTooLong_burgers_7dd382ed		Then everything goes black.	game/burgers.rpy	101
+waitedTooLong_burgers_1a0b1771		You find out later, from the hospital, that there was a gas explosion.	game/burgers.rpy	102
+waitedTooLong_burgers_aaf1c22f		Striking with the luck of the mindless, one of the bullets managed to hit the fuel line for the gas ovens.	game/burgers.rpy	103
+waitedTooLong_burgers_94158de0		You're shaken and bruised, but ultimately okay.	game/burgers.rpy	104
+waitedTooLong_burgers_75641122		Sadly, the same could not be said for Felicia. The best that the doctors will tell you is that at least it was quick.	game/burgers.rpy	105
+waitedTooLong_burgers_1c548560		But, sadly, she did not survive.	game/burgers.rpy	106
+hilltop_start_304936e8		You head directly out to Moore's Hill, only to find Felicia has gotten there ahead of you.	game/hilltop.rpy	6
+hilltop_start_9421cb9f		Given that she lives further away, you assume this means she was in a hurry.	game/hilltop.rpy	7
+hilltop_start_4f82b511		The hill is peaceful, and the stars are just starting to come out. You can see the whole town spread out in front of you.	game/hilltop.rpy	8
+hilltop_start_ea02291c		Felicia doesn't say anything until you approach, and doesn't even seem to be looking at you.	game/hilltop.rpy	10
+hilltop_start_fa8419a3		Only after you sit down next to her does she finally acknowledge your presence.	game/hilltop.rpy	11
+hilltop_start_5f284a04	f	All right. I'm here. And you have some explaining to do.	game/hilltop.rpy	13
+hilltop_firstMenu_534fd462	f	[prompt]	game/hilltop.rpy	20
+hilltop_firstMenu_cb8fd12c	f	Very funny. Okay now, seriously.	game/hilltop.rpy	23
+hilltop_firstMenu_2eb838d2	f	Really? Honestly?	game/hilltop.rpy	36
+hilltop_firstMenu_3ec57d49	f	...	game/hilltop.rpy	39
+hilltop_firstMenu_52ebf857	f	.....	game/hilltop.rpy	40
+hilltop_firstMenu_dabf44c8	f	No.	game/hilltop.rpy	41
+hilltop_firstMenu_7615b33b	f	No, I don't know why, but I don't think you're being honest with me.	game/hilltop.rpy	42
+hilltop_firstMenu_d5281173	f	And... I'm sorry. But my secret dreams and feelings are not something I'm willing to be lied to about.	game/hilltop.rpy	43
+hilltop_firstMenu_7db86dfb	f	Good night.	game/hilltop.rpy	44
+hilltop_firstMenu_06398373		She sighs.	game/hilltop.rpy	46
+hilltop_firstMenu_e00e5ba0	f	This is dumb.	game/hilltop.rpy	47
+hilltop_firstMenu_4f156f4b	f	I don't know why I even came out.	game/hilltop.rpy	48
+hilltop_firstMenu_c67b7ab6	f	I thought... It doesn't matter.	game/hilltop.rpy	49
+hilltop_firstMenu_78bdff91	f	Sorry to drag you all the way out here for nothing.	game/hilltop.rpy	50
+hilltop_firstMenu_abfcf447	f	Wait, what? What are you talking about now?	game/hilltop.rpy	52
+hilltop_firstMenu_a5364bd5	f	Which statue, this one?	game/hilltop.rpy	53
+hilltop_firstMenu_8987280c		She walks over to her bike, parked next to the statue on the top of the hill.	game/hilltop.rpy	54
+hilltop_firstMenu_b0aea484		Somehow you're not even surprised when the statue starts to lean, and then topples over, directly onto her.	game/hilltop.rpy	56
+hilltop_game_6033480c	f	...Go on.	game/hilltop.rpy	65
+hilltop_game_05c1ac04	f	How does that explain you knowing things I've never told anyone?	game/hilltop.rpy	66
+hilltop_game_80e4c30e	f	You're saying you played before, and I told you in a different... playthrough?	game/hilltop.rpy	69
+hilltop_game_1d5c54f9	f	So it was me that told you, and I just don't remember it, because it didn't happen in this session or something?	game/hilltop.rpy	71
+hilltop_game_177d5862	f	I guess that makes sense, in a Twilight-Zone sort of way.	game/hilltop.rpy	73
+hilltop_game_9dd0aa3c	f	So what's all this about? This game, I mean. What are you trying to do in it?	game/hilltop.rpy	75
+hilltop_game_c71a4054	f	Oh. So us going out to dinner, as planned, must have been a bad ending, then?	game/hilltop.rpy	78
+hilltop_game_59d5ef8d	f	Oh. What have you seen so far?	game/hilltop.rpy	82
+hilltop_game_561cecce	f	Oh.	game/hilltop.rpy	85
+hilltop_game_a3f27fd4	f	That's pretty dark.	game/hilltop.rpy	86
+hilltop_game_ae28584c	f	So does that mean I wouldn't have survived if we'd gone out to dinner like we planned?	game/hilltop.rpy	87
+hilltop_game_534fd462	f	[prompt]	game/hilltop.rpy	92
+hilltop_game_60c9c5b4	f	Oh. That's pretty vague.	game/hilltop.rpy	95
+hilltop_game_700eb857	f	Yeah, I guess I am allergic.	game/hilltop.rpy	98
+hilltop_game_95cd42c0	f	Wait, what? Why were we having dinner somewhere where shootouts happen? I was just planning on the Taco Palace or something.	game/hilltop.rpy	101
+hilltop_game_8d264f0c	f	Oh. That's kind of random.	game/hilltop.rpy	104
+hilltop_game_9e693b7d	f	Uhg.	game/hilltop.rpy	107
+hilltop_game_561cecce_1	f	Oh.	game/hilltop.rpy	110
+hilltop_game_9e2c0bab	f	Wait, seriously? This game is kind of campy, isn't it?	game/hilltop.rpy	114
+hilltop_game_b03b363a	f	For real? That's kind of hard to take seriously.	game/hilltop.rpy	116
+hilltop_game_d7c34bb5	f	Wait a minute. From the way you said that...	game/hilltop.rpy	119
+hilltop_game_c9a0dd88	f	Exactly how many times have you had to watch me die?	game/hilltop.rpy	122
+hilltop_game_c9d164ca	f	Really?	game/hilltop.rpy	125
+hilltop_game_cf1de25a	f	Heh. I get the feeling you're trying to spare my feelings.	game/hilltop.rpy	126
+hilltop_game_033012b0	f	Don't worry, I'm not going to freak out on you. But thanks for the thought!	game/hilltop.rpy	127
+hilltop_game_2d81ade4	f	I see.	game/hilltop.rpy	129
+hilltop_game_14e17b65	f	That doesn't sound good.	game/hilltop.rpy	130
+hilltop_game_561cecce_2	f	Oh.	game/hilltop.rpy	132
+hilltop_game_4784a4ec	f	That bad, huh?	game/hilltop.rpy	133
+hilltop_game_3ec57d49	f	...	game/hilltop.rpy	136
+hilltop_game_83c27375	f	Geez.	game/hilltop.rpy	137
+hilltop_game_03a6ab50	f	I had no idea... And you counted each one?	game/hilltop.rpy	138
+hilltop_game_00c06b10	f	I... I had no idea.	game/hilltop.rpy	141
+hilltop_game_561cecce_3	f	Oh.	game/hilltop.rpy	143
+hilltop_game_443c3c57	f	I can't decide if that makes the whole thing more macabre or less.	game/hilltop.rpy	144
+hilltop_game_35107d6e	f	So. Let me get this straight. You're playing a game. A game in which I seem destined to die if we go out to dinner.	game/hilltop.rpy	146
+hilltop_game_1418021a	f	So this time, you convinced me to come here instead of going to dinner, because if we go to dinner, I'm basically doomed?	game/hilltop.rpy	147
+hilltop_game_05faad94	f	So... What does that mean now? Since we didn't go to dinner, am I in the clear?	game/hilltop.rpy	150
+hilltop_game_62bd1a01	f	Fair enough!	game/hilltop.rpy	153
+hilltop_game_88140d85	f	Guess we'll see where this one lands us!	game/hilltop.rpy	154
+hilltop_game_c97f33d5	f	Well, you're apparently the expert in me dying, so that's probably a good sign...	game/hilltop.rpy	156
+hilltop_game_4b6a32cb	f	Oof. Brutal honesty.	game/hilltop.rpy	159
+hilltop_game_99f8ec09	f	It's okay, though. I can take it. But you'll understand if I hold out hope until the end, right?	game/hilltop.rpy	160
+hilltop_game_2da9ff6d	f	Oh. So why did you bother bringing me here, then?	game/hilltop.rpy	163
+hilltop_game_5431a3e3	f	Hmm. I guess incremental improvement is better than none at all.	game/hilltop.rpy	166
+hilltop_game_bdd653ff	f	Well, I certainly have a vested interest.	game/hilltop.rpy	168
+hilltop_game_671db799	f	I'll obviously do whatever I can.	game/hilltop.rpy	169
+hilltop_game_a51ebbe0	f	Well, that much is certainly true.	game/hilltop.rpy	172
+hilltop_game_1c2d43a7	f	So now what?	game/hilltop.rpy	175
+hilltop_game_097fba02	f	I guess we just talk and see what happens?	game/hilltop.rpy	176
+hilltop_game_8c6e918f	f	This is all... Too big to take in at once, almost.	game/hilltop.rpy	177
+hilltop_game_3df509d0	f	I'm kind of out of my depth here.	game/hilltop.rpy	178
+hilltop_game_23f73240		She laughs suddenly.	game/hilltop.rpy	179
+hilltop_game_cbdc482e	f	I was going to say that I've never been in this situation before, so I'm not really sure how to react.	game/hilltop.rpy	180
+hilltop_game_8853a883	f	But if what you're saying is true, I've been in this situation a lot of times so far.	game/hilltop.rpy	181
+hilltop_game_c4651f84	f	I still don't know how to react, though. I'm kind of in shock, and going on autopilot.	game/hilltop.rpy	182
+hilltop_game_583bb318	f	I really want to not believe you about any of this, but, somehow, I know you're telling me the truth.	game/hilltop.rpy	183
+hilltop_game_8aa1d9b5	f	Well, here we are. We've successfully cheated my death, even if it's only for a little bit.	game/hilltop.rpy	185
+hilltop_game_e51e5060	f	What should we talk about?	game/hilltop.rpy	186
+howdidyouknow_534fd462	f	[prompt]	game/howdidyouknow.rpy	6
+howdidyouknow_lucky_efdd315c	f	Wow. That's some luck, then. Maybe you should buy a lottery ticket or something.	game/howdidyouknow.rpy	33
+howdidyouknow_lucky_11d48871	f	Maybe I should have you buy {i}me{/i} a lottery ticket or something.	game/howdidyouknow.rpy	34
+howdidyouknow_lucky_c47062d6	f	Anyway, where were we?	game/howdidyouknow.rpy	36
+howdidyouknow_lucky_b236c545		The rest of the dinner is uneventful.	game/howdidyouknow.rpy	39
+howdidyouknow_lucky_81a05404		She seems a bit spooked by her near-death experience, and you finish out the meal talking about meaningless trivialities.	game/howdidyouknow.rpy	40
+howdidyouknow_lucky_604b557d	f	You're the one with the eerie hunches! Let's head out!	game/howdidyouknow.rpy	43
+howdidyouknow_wizard_a7c0ae0b	f	Are you... serious?	game/howdidyouknow.rpy	56
+howdidyouknow_wizardproof_36b4704f	f	This is all kind of weird. How do I know you're really a wizard, and not just messing with me? That that wasn't some trick somehow?	game/howdidyouknow.rpy	71
+howdidyouknow_wizardproof_8542a354	f	I'm glad that I didn't die and all, but... How do I know you're really a wizard? Do something magical.	game/howdidyouknow.rpy	73
+howdidyouknow_wizardfrog_eddcebab	f	Oh, wow. Yeah. Do that. Or wait. You're not going to do this to me, right? I hate frogs.	game/howdidyouknow.rpy	89
+howdidyouknow_wizardfrog_36b26b50	f	Although that would be pretty convincing, I guess!	game/howdidyouknow.rpy	90
+howdidyouknow_wizardfrog_04ceb22c	f	Okay, go for it!	game/howdidyouknow.rpy	91
+howdidyouknow_wizardfrog_2bbe4a48		She seems genuinely disappointed.	game/howdidyouknow.rpy	95
+howdidyouknow_wizardfrog_fac59234	f	Oh. Oh well. Well, I'm glad you saved my life anyway! That was still cool!	game/howdidyouknow.rpy	96
+howdidyouknow_wizardfrog_37a72f4b		She seems really disappointed.	game/howdidyouknow.rpy	99
+howdidyouknow_wizardfrog_b24ffa63	f	Oh. Yeah. I guess I was kind of silly. I almost believed you!	game/howdidyouknow.rpy	100
+howdidyouknow_wizardfrog_b84915e7		She tries not to giggle as she watches you.	game/howdidyouknow.rpy	102
+howdidyouknow_wizardlevitate_4db809eb	f	Oh, wow. Yeah. Do that. Or wait, are you going to levitate me or you?	game/howdidyouknow.rpy	107
+howdidyouknow_wizardlevitate_36b26b50	f	Although that would be pretty convincing, I guess!	game/howdidyouknow.rpy	108
+howdidyouknow_wizardlevitate_8ba506a3	f	Maybe you should levitate yourself. I get queasy from heights.	game/howdidyouknow.rpy	109
+howdidyouknow_wizardlevitate_fc16415d		You can't tell if she's making fun of you or not.	game/howdidyouknow.rpy	110
+howdidyouknow_wizardlevitate_2bbe4a48		She seems genuinely disappointed.	game/howdidyouknow.rpy	114
+howdidyouknow_wizardlevitate_fac59234	f	Oh. Oh well. Well, I'm glad you saved my life anyway! That was still cool!	game/howdidyouknow.rpy	115
+howdidyouknow_wizardlevitate_37a72f4b		She seems really disappointed.	game/howdidyouknow.rpy	118
+howdidyouknow_wizardlevitate_b24ffa63	f	Oh. Yeah. I guess I was kind of silly. I almost believed you!	game/howdidyouknow.rpy	119
+howdidyouknow_wizardlevitate_b84915e7		She tries not to giggle as she watches you.	game/howdidyouknow.rpy	122
+howdidyouknow_wizardletter_e0b18f39	f	Hmm. I'm not sure... I guess....	game/howdidyouknow.rpy	127
+howdidyouknow_wizardletter_dcc23083	f	Okay, I've got it!	game/howdidyouknow.rpy	128
+howdidyouknow_wizardletter_d558e004	f	When I was really little, I was convinced I was going to be taken away to Hogwarts, and I sent them a letter.	game/howdidyouknow.rpy	129
+howdidyouknow_wizardletter_949490a1	f	Anyway, if you can tell me about that letter, then I'll believe you're a wizard.	game/howdidyouknow.rpy	131
+howdidyouknow_wizardletter_277d456b		She smiles, sort of wistfully.	game/howdidyouknow.rpy	134
+howdidyouknow_wizardletter_aeb3d95a		She seems disappointed with your answer.	game/howdidyouknow.rpy	138
+howdidyouknow_wizardletter_37a72f4b		She seems really disappointed.	game/howdidyouknow.rpy	141
+howdidyouknow_wizardletter_b24ffa63	f	Oh. Yeah. I guess I was kind of silly. I almost believed you!	game/howdidyouknow.rpy	142
+howdidyouknow_letterdescription_5de486d6	f	No... Nothing like that. Guess you're not a wizard, then, after all.	game/howdidyouknow.rpy	151
+howdidyouknow_letterdescription_477848b4		She actually looks a little embarrassed.	game/howdidyouknow.rpy	152
+howdidyouknow_letterdescription_ca0542bc	f	I had kind of a messed-up childhood, honestly. The idea of escaping to a magical place where I was uniquely special was pretty appealing.	game/howdidyouknow.rpy	153
+howdidyouknow_letterdescription_da7ad88d	f	I asked for an owl, because they were pretty. I was going to name mine Skydancer, if you can believe it.	game/howdidyouknow.rpy	155
+howdidyouknow_letterdescription_c047dd72	f	And I asked them to make sure I was in the class for potions.	game/howdidyouknow.rpy	156
+howdidyouknow_letterdescription_a46ce098	f	I think it was because Mom drank a lot back then, and I was always seeing empty bottles around. Somehow I decided that if I could fill them with magic potions, I could cure Mom and maybe Dad would come back.	game/howdidyouknow.rpy	157
+howdidyouknow_letterdescription_f412c720		She looks at you apologetically.	game/howdidyouknow.rpy	158
+howdidyouknow_letterdescription_d2e7e6da	f	Sorry. I know it was pretty silly. Like I said, I was a little messed up.	game/howdidyouknow.rpy	159
+howdidyouknow_letterdescription_0b606309	f	Anyway, if you're not a wizard, you still have some explaining to do, since you did still save my life!	game/howdidyouknow.rpy	160
+howdidyouknow_hogwarts_eebb0cee		Her jaw drops open.	game/howdidyouknow.rpy	166
+howdidyouknow_hogwarts_13c46e71	f	How did you know... Right. Wizard.	game/howdidyouknow.rpy	167
+howdidyouknow_hogwarts_fc0c03f9	f	Okay, I'm convinced. Wow!	game/howdidyouknow.rpy	168
+howdidyouknow_hogwarts_2125ff25	f	I never expected that one of my friends was a real wizard!	game/howdidyouknow.rpy	169
+howdidyouknow_hogwarts_60da40de	f	Don't worry. I won't tell anyone!	game/howdidyouknow.rpy	170
+howdidyouknow_hogwarts_25cc3d85	f	... Although... What made you decide to tell me?	game/howdidyouknow.rpy	172
+howdidyouknow_hogwarts_25f5ee57		She nods solemnly.	game/howdidyouknow.rpy	175
+howdidyouknow_hogwarts_295d91a5	f	You can trust me!	game/howdidyouknow.rpy	176
+howdidyouknow_hogwarts_bdf1c9a4		You've never seen anyone so excited in your life.	game/howdidyouknow.rpy	179
+howdidyouknow_hogwarts_0476d2a1	f	Really? Really really? When do we leave?	game/howdidyouknow.rpy	180
+howdidyouknow_hogwarts_c0b9dd0d	f	Promise! Promise you'll let me know!	game/howdidyouknow.rpy	183
+howdidyouknow_hogwarts_9feae422	f	Oh, this is everything I dreamed!	game/howdidyouknow.rpy	184
+howdidyouknow_hogwarts_2c9d9c73	f	Okay! Tell me what I have to do!	game/howdidyouknow.rpy	187
+howdidyouknow_hogwarts_cc691e3b	f	You don't have to ask me twice!	game/howdidyouknow.rpy	190
+howdidyouknow_hogwarts_939049ff	f	Well, you've certainly done a good job of that so far.	game/howdidyouknow.rpy	193
+howdidyouknow_future_e3582086	f	I... Wow. Really? Are you serious?!	game/howdidyouknow.rpy	207
+howdidyouknow_future_ab3b794f	f	That's... a pretty incredible claim.	game/howdidyouknow.rpy	208
+howdidyouknow_future_6818eaf2	f	Do you have any way to prove that? I mean, I'm really grateful that you just saved my life and all...	game/howdidyouknow.rpy	209
+howdidyouknow_future_d16d45fa	f	But this whole thing is still pretty weird. How do I know you're really from the future?	game/howdidyouknow.rpy	211
+howdidyouknow_future_f43fcd7b	f	Okay, that's pretty convincing.	game/howdidyouknow.rpy	214
+howdidyouknow_future_294998dc	f	Or it will be tomorrow, anyway, if you're right.	game/howdidyouknow.rpy	215
+howdidyouknow_future_5805fbed		She pauses. For a moment the only sound is the hustle and bustle of the restaurant, punctuated by a brief clatter as one of the servers stumbles and drops a stack of plates. Felicia seems not to notice.	game/howdidyouknow.rpy	217
+howdidyouknow_future_6b28be34	f	I'm feeling kind of rattled from tonight, anyway. Let's go home, and I'll call you tomorrow.	game/howdidyouknow.rpy	218
+howdidyouknow_future_220ac350	f	{i}After{/i} I've checked the winning numbers.	game/howdidyouknow.rpy	219
+howdidyouknow_future_837e9917	f	That's kind of far off. That's not very convincing, at least not yet.	game/howdidyouknow.rpy	222
+howdidyouknow_future_e57b31be	f	Points for effort, though, I guess. I was hoping for something I could check sooner.	game/howdidyouknow.rpy	223
+howdidyouknow_future_187d84da		She pauses, deep in thought. For a moment the only sound is the hustle and bustle of the restaurant, punctuated by a brief clatter as one of the servers stumbles and drops a stack of plates. Felicia seems not to notice.	game/howdidyouknow.rpy	225
+howdidyouknow_future_6b28be34_1	f	I'm feeling kind of rattled from tonight, anyway. Let's go home, and I'll call you tomorrow.	game/howdidyouknow.rpy	226
+howdidyouknow_future_e30d53f7	f	You take that back! Don't even joke about that!	game/howdidyouknow.rpy	229
+howdidyouknow_future_263ac6d3		There is an awkward silence. For a moment the only sound is the hustle and bustle of the restaurant, punctuated by a brief clatter as one of the servers stumbles and drops a stack of plates. Felicia seems not to notice.	game/howdidyouknow.rpy	231
+howdidyouknow_future_6b28be34_2	f	I'm feeling kind of rattled from tonight, anyway. Let's go home, and I'll call you tomorrow.	game/howdidyouknow.rpy	232
+howdidyouknow_future_4e2bfe67	f	Wait, really? You're serious?	game/howdidyouknow.rpy	235
+howdidyouknow_future_62b3ea45		She turns around to look.	game/howdidyouknow.rpy	236
+howdidyouknow_future_74398591	f	He looks fine to me. Is this some kind of...	game/howdidyouknow.rpy	237
+howdidyouknow_future_51d2dd46		The server trips and goes down with a loud clatter, dropping a full load of plates.	game/howdidyouknow.rpy	238
+howdidyouknow_future_ca082005	f	I... How did you do that? Seriously, how did you do that?	game/howdidyouknow.rpy	239
+howdidyouknow_future_fd4c2a56	f	Are you really for real? About being from the future?	game/howdidyouknow.rpy	240
+howdidyouknow_esp_3d6726f7	f	Haha, no, I'm being serious, you dork! How did you know?	game/howdidyouknow.rpy	254
+howdidyouknow_esp_89276dbf	f	All right, I'll play along. Okay, got one. What's your guess?	game/howdidyouknow.rpy	260
+howdidyouknow_esp_8123bf07	f	Hah! Got you!	game/howdidyouknow.rpy	272
+howdidyouknow_esp_d8898b8f	f	It was negative eight!	game/howdidyouknow.rpy	274
+howdidyouknow_esp_294f2b64	f	{i}No one{/i} ever guesses negative numbers!	game/howdidyouknow.rpy	275
+howdidyouknow_guessedNumber1_3923dff2	f	Okay, that was luck. Do it again. I've got a new number.	game/howdidyouknow.rpy	280
+howdidyouknow_guessedNumber1_34453920	f	Hah, I'm not that silly, picking the same one twice in a row!	game/howdidyouknow.rpy	289
+howdidyouknow_guessedNumber1_5e0cbbc6	f	Although, good guess, I guess! That's the sort of thing I might have done. But I didn't.	game/howdidyouknow.rpy	290
+howdidyouknow_guessedNumber1_0c86239d	f	So it's as I suspected! You're a fraud.	game/howdidyouknow.rpy	291
+howdidyouknow_guessedNumber1_8dca8cf0	f	If you were a real mind reader, you'd have known. Decimal points are the natural enemies of {i}frauds{/i}, you know.	game/howdidyouknow.rpy	292
+howdidyouknow_guessedNumber1_18cf43ed	f	{i}Wrong.{/i} It was 7.553. If you were a real mind-reader, you'd have known. Decimal points are the natural enemies of {i}frauds{/i}, you know.	game/howdidyouknow.rpy	300
+howdidyouknow_guessedWrongNumber_0f572ba3	f	I should have known this was all a trick.	game/howdidyouknow.rpy	303
+howdidyouknow_guessedWrongNumber_24d09917	f	I think I'm going home. I'm still a little rattled by tonight, and I want to get some sleep.	game/howdidyouknow.rpy	304
+howdidyouknow_guessedNumber2_e21f9ef7	f	... Okay. It's getting harder to explain these by luck. That's actually kind of creepy.	game/howdidyouknow.rpy	309
+howdidyouknow_guessedNumber2_f77a5a83	f	Let's assume for the moment that I believe you. Why are you telling me this?	game/howdidyouknow.rpy	310
+howdidyouknow_savedgame_fcbb0b8e	f	What is that supposed to mean? I don't understand what you just said...	game/howdidyouknow.rpy	323
+howdidyouknow_savedgame_4cf103e5	f	What exactly do you mean, 'reloaded'...?	game/howdidyouknow.rpy	324
+howdidyouknow_savedgame_561cecce	f	Oh.	game/howdidyouknow.rpy	327
+howdidyouknow_savedgame_a7819760	f	....	game/howdidyouknow.rpy	328
+howdidyouknow_savedgame_499c2484	f	That was a really weird joke to make, if you were trying to be funny.	game/howdidyouknow.rpy	329
+howdidyouknow_savedgame_55599d5c	f	Really, this whole evening has turned out weird.	game/howdidyouknow.rpy	330
+howdidyouknow_savedgame_7f835435	f	Heh. That sounds kind of far-fetched. But wow, it would be nice to just be able to hit 'reload' on our mistakes, huh?	game/howdidyouknow.rpy	334
+howdidyouknow_savedgame_04b4396b	f	So don't take this the wrong way, but I still think you're sort of full of it.	game/howdidyouknow.rpy	335
+howdidyouknow_savedgame_44c24d81	f	Although I do really appreciate the part where you, you know, saved my life and all, but I don't understand why you'd then turn around and give such an implausible explanation for how you did it.	game/howdidyouknow.rpy	336
+howdidyouknow_savedgame_357676e2	f	The whole thing just feels like one big setup, or a super-elaborate practical joke.	game/howdidyouknow.rpy	337
+howdidyouknow_savedgame_cc66d867	f	Like, as soon as I do something embarrassing, like saying that I believe you, hidden cameramen will jump out and there will be streamers.	game/howdidyouknow.rpy	338
+howdidyouknow_savedgame_5f0322ca	f	And the next thing I know, I'm the next YouTube sensation, 'Gullible-Girl', with 6 million hits.	game/howdidyouknow.rpy	340
+howdidyouknow_savedgame_48825e34	f	Look. I know, or at least I think I know, that you mean well.	game/howdidyouknow.rpy	345
+howdidyouknow_savedgame_2243b6ab	f	And I do appreciate not dying from something stupid today. I really do.	game/howdidyouknow.rpy	346
+howdidyouknow_savedgame_d8a437e8	f	But this is really confusing, and I think I need to just go home, and... Yeah.	game/howdidyouknow.rpy	347
+howdidyouknow_savedgame_3796b579	f	I just need some time to sort things out. I'm a little too rattled for dinner now, anyway.	game/howdidyouknow.rpy	348
+howdidyouknow_savedgame_f127b9ad	f	Let's talk again tomorrow.	game/howdidyouknow.rpy	349
+howdidyouknow_savedgame_c46c6d7a	f	... Okay. Got one. Now what?	game/howdidyouknow.rpy	353
+howdidyouknow_savedgame_1837661d	f	What? This is a pretty lame trick.	game/howdidyouknow.rpy	356
+howdidyouknow_savedgame_76444616	f	I mean, the word was 'peristalsis', but just asking me for it straight-up isn't very impressive.	game/howdidyouknow.rpy	358
+howdidyouknow_savedgame_98d97ae4	f	Um... No.	game/howdidyouknow.rpy	360
+howdidyouknow_savedgame_5d92c621	f	It wasn't.	game/howdidyouknow.rpy	361
+howdidyouknow_savedgame_aa01dab5	f	How is this supposed to convince me?	game/howdidyouknow.rpy	366
+howdidyouknow_savedgame_3ec57d49	f	...	game/howdidyouknow.rpy	369
+howdidyouknow_savedgame_52ebf857	f	.....	game/howdidyouknow.rpy	370
+howdidyouknow_savedgame_1b0dfb27	f	.......	game/howdidyouknow.rpy	371
+howdidyouknow_savedgame_40eaedbd	f	What is that supposed to mean? For next time what?	game/howdidyouknow.rpy	376
+howdidyouknow_savedgame_eb918e47	f	...What?	game/howdidyouknow.rpy	383
+howdidyouknow_savedgame_c1db9751	f	Okay, you're starting to really creep me out now.	game/howdidyouknow.rpy	384
+howdidyouknow_savedgame_cd7d8bea	f	What, you think you can just back up and reload your life every time you make a mistake?	game/howdidyouknow.rpy	387
+howdidyouknow_savedgame_8e586464	f	Okay then. Go ahead. I think you're full of it. I've seen you make mistakes before. You live with them, the same as the rest of us.	game/howdidyouknow.rpy	388
+howdidyouknow_savedgame_bed3027b	f	If you think you can just back up and fix everything, then go ahead. I'll wait.	game/howdidyouknow.rpy	389
+howdidyouknow_savedgame_3ec57d49_1	f	...	game/howdidyouknow.rpy	390
+howdidyouknow_savedgame_0b03ff58	f	I'm waiting.	game/howdidyouknow.rpy	391
+howdidyouknow_savedgame_3ec57d49_2	f	...	game/howdidyouknow.rpy	392
+howdidyouknow_savedgame_95fe9b30	f	Are you just going to sit there all night now, or what? I thought you were going to go reload or whatever.	game/howdidyouknow.rpy	393
+howdidyouknow_savedgame_bef206b3	f	Ahh. Right. Of course.	game/howdidyouknow.rpy	398
+howdidyouknow_savedgame_d1b5b115	f	I know. But I can't figure out why you're acting like this all of a sudden.	game/howdidyouknow.rpy	401
+howdidyouknow_savedgame_f0823a60	f	Why are you saying these things that make no sense all of a sudden?	game/howdidyouknow.rpy	402
+howdidyouknow_savedgame_67b85b47	f	What does that even mean?	game/howdidyouknow.rpy	404
+howdidyouknow_savedgame_b5dd75af	f	If I say 'game over' to you, does that count?	game/howdidyouknow.rpy	405
+howdidyouknow_savedgame_5cef1dde	f	This is the weirdest dinner ever.	game/howdidyouknow.rpy	406
+howdidyouknow_guessedSecretWord_704be1b9	f	What? How did you...	game/howdidyouknow.rpy	411
+howdidyouknow_guessedSecretWord_c7eddb6e	f	That's... Really eerie.	game/howdidyouknow.rpy	412
+howdidyouknow_guessedSecretWord_5258ed37	f	So, okay, let's assume that I accept for the moment that there's at least enough weird crap going on that I should take things at face value.	game/howdidyouknow.rpy	413
+credits_df2957ca		{size=+10}~Game Credits~{/size}	game/credits.rpy	7
+credits_4d09df5f		{size=+10}Design, Programming, Writing, Art:{/size}\nChris Cornell	game/credits.rpy	8
+credits_dedc3fbd		{size=+10}Music:{/size}\nFrancisco Cerda	game/credits.rpy	9
+credits_a735c7f4		{size=+10}Proofreading:{/size}\nAndrew Davis	game/credits.rpy	10
+credits_ff6b07d5		{size=+10}Playtesting:{/size}\nTim and Mike Ambrogi, Aaron Cantor, Jim Crawford, Brian Cronin, Andrew Davis, Kirk George, Lisa Hicks, Halsted Larsson, Jorge Medina, Zach Powell, Tyson Roberts, Eric Shmidt, Jake Terhune, Josh and Lucy Von Korff, Jane Von Susteren	game/credits.rpy	11
+credits_ce1be310		{size=+10}Visual Novel Engine:{/size}\nThis game was proudly made using Ren'Py!	game/credits.rpy	12
+credits_b806c3ef		{size=+10}And you!{/size}\nSeriously.\n\nThanks for playing!	game/credits.rpy	13
+currentLocationDeath_7cea1fc3	f	Error - currentLocation couldn't be figured out. It is currently [currentLocation]	game/utils.rpy	106
+whatsthisallabout_start_hogwarts_ab12c218	f	I mean, thanks and all! I don't want to seem ungrateful! But what's this all about?	game/whatsthisabout.rpy	11
+whatsthisallabout_start_hogwarts_e7543398	f	Oh, wow! That's so cool!	game/whatsthisabout.rpy	14
+whatsthisallabout_start_hogwarts_ae2c7386	f	I can't believe I know an actual {i}wizard!{/i}	game/whatsthisabout.rpy	15
+whatsthisallabout_start_hogwarts_837ba42b	f	Who got my letter and everything!	game/whatsthisabout.rpy	16
+whatsthisallabout_start_hogwarts_a9cc0dd7	f	So if you got my letter, does that mean you live at Hogwarts? Do you work there?	game/whatsthisabout.rpy	17
+whatsthisallabout_start_hogwarts_739268f3	f	Are you here to take me away to there?	game/whatsthisabout.rpy	18
+whatsthisallabout_start_hogwarts_acb0264b	f	This is the best day {i}ever!{/i}	game/whatsthisabout.rpy	21
+whatsthisallabout_start_hogwarts_561cecce	f	Oh.	game/whatsthisabout.rpy	24
+whatsthisallabout_start_hogwarts_60386bae	f	How... complicated, exactly?	game/whatsthisabout.rpy	25
+whatsthisallabout_start_hogwarts_561cecce_1	f	Oh.	game/whatsthisabout.rpy	28
+whatsthisallabout_start_hogwarts_a04f0184	f	Wait.	game/whatsthisabout.rpy	29
+whatsthisallabout_start_hogwarts_3aa965e3	f	What?!?	game/whatsthisabout.rpy	30
+whatsthisallabout_start_hogwarts_358ec4e0	f	Okay! You're the expert at wizardly life-saving techniques!	game/whatsthisabout.rpy	34
+whatsthisallabout_start_hogwarts_c8b5b60b	f	Where should we go?	game/whatsthisabout.rpy	35
+whatsthisallabout_start_hogwarts_b0b74215	f	You're the expert!	game/whatsthisabout.rpy	38
+whatsthisallabout_start_hogwarts_7a38a675	f	If you think we should go somewhere else, that's good enough for me.	game/whatsthisabout.rpy	39
+whatsthisallabout_start_hogwarts_32da7e7e	f	If you say so!	game/whatsthisabout.rpy	42
+whatsthisallabout_start_hogwarts_bbeb374e	f	I know I should be terrified, but this is actually kind of exciting.	game/whatsthisabout.rpy	43
+whatsthisallabout_start_hogwarts_62902d2c	f	Oh no! Can't you, just, I don't know, magic me out of that one too?	game/whatsthisabout.rpy	46
+whatsthisallabout_start_hogwarts_9ecf0675	f	What should we do?	game/whatsthisabout.rpy	49
+whatsthisallabout_start_hogwarts_6f02cdc9	f	You know best!	game/whatsthisabout.rpy	52
+whatsthisallabout_start_hogwarts_bf8ac89f	f	If you've got a wizard looking out for you, it probably makes sense to take his advice, that's what I always say!	game/whatsthisabout.rpy	53
+whatsthisallabout_start_hogwarts_5681270d		The faint quaver in her voice is almost undetectable. Almost.	game/whatsthisabout.rpy	54
+whatsthisallabout_start_hogwarts_4d2e1cd4	f	Okay! We'll stay here and awkwardly fiddle with our food until you say it's safe to leave.	game/whatsthisabout.rpy	55
+whatsthisallabout_start_hogwarts_9cefdfaf	f	Is that the best idea?	game/whatsthisabout.rpy	58
+whatsthisallabout_start_hogwarts_40df4d3e	f	Do {i}you{/i} think you're wrong?	game/whatsthisabout.rpy	59
+whatsthisallabout_start_hogwarts_2e3d30cd	f	You don't sound terribly certain.	game/whatsthisabout.rpy	62
+whatsthisallabout_start_hogwarts_073949f4	f	Still, let's try it. This place makes me nervous now, too.	game/whatsthisabout.rpy	63
+whatsthisallabout_start_hogwarts_f5bc7388	f	That doesn't sound reassuring.	game/whatsthisabout.rpy	66
+whatsthisallabout_start_hogwarts_4672ef4a	f	Maybe we should just stay here.	game/whatsthisabout.rpy	67
+whatsthisallabout_start_hogwarts_77444fec	f	Are... Are you serious?	game/whatsthisabout.rpy	70
+whatsthisallabout_start_hogwarts_2d6e7318		She looks shocked at your words. And more than a little hurt.	game/whatsthisabout.rpy	71
+whatsthisallabout_start_hogwarts_423e7c27	f	Is this some kind of horrible joke? You save my life, and then tell me I'm going to die anyway?	game/whatsthisabout.rpy	72
+whatsthisallabout_start_hogwarts_59930baa	f	Well. Thank you for trying, at least.	game/whatsthisabout.rpy	83
+whatsthisallabout_start_hogwarts_4843f200	f	I guess if I'm doomed, I'm doomed.	game/whatsthisabout.rpy	84
+whatsthisallabout_start_hogwarts_60ad92a0		She manages a weak smile in your direction.	game/whatsthisabout.rpy	85
+whatsthisallabout_start_hogwarts_0c9608d7	f	Still, I don't mind telling you, this is not even close to how I was hoping this evening would go.	game/whatsthisabout.rpy	86
+whatsthisallabout_start_hogwarts_1d5de9c4		She gives you a blank look.	game/whatsthisabout.rpy	89
+whatsthisallabout_start_hogwarts_fe70eddc	f	What does that mean? In non-wizard-speak, I mean?	game/whatsthisabout.rpy	90
+whatsthisallabout_start_hogwarts_7af27b21	f	Am I still in danger?	game/whatsthisabout.rpy	92
+whatsthisallabout_start_hogwarts_86bbc679	f	Whew! You had me worried for a minute there!	game/whatsthisabout.rpy	95
+whatsthisallabout_start_hogwarts_7e77d0d2	f	Oh. But you'll keep looking into it?	game/whatsthisabout.rpy	98
+whatsthisallabout_start_hogwarts_35722dd4	f	This would be kind of exciting, if it wasn't someone actively seeking my life.	game/whatsthisabout.rpy	99
+whatsthisallabout_start_hogwarts_59927b62	f	I've never had a wizard-arch-nemesis before!	game/whatsthisabout.rpy	100
+whatsthisallabout_start_hogwarts_32c7fbbc	f	Maybe we should leave?	game/whatsthisabout.rpy	101
+whatsthisallabout_start_hogwarts_dab734fe	f	Really? Well, you're the expert.	game/whatsthisabout.rpy	106
+whatsthisallabout_start_hogwarts_f8a4727a	f	And I'm certainly not going to complain!	game/whatsthisabout.rpy	107
+whatsthisallabout_start_hogwarts_fcad2909	f	If I have to face death, no reason I should have to do it on an empty stomach!	game/whatsthisabout.rpy	108
+whatsthisallabout_start_hogwarts_f063e0cd	f	Like... dead doomed? Or just 'really bad day' doomed?	game/whatsthisabout.rpy	111
+whatsthisallabout_start_hogwarts_9403831d	f	Because when you say it like that, it makes it sound like you mean...	game/whatsthisabout.rpy	112
+whatsthisallabout_start_hogwarts_4c621d90	f	That's a... creepy way to put it.	game/whatsthisabout.rpy	116
+whatsthisallabout_start_hogwarts_400174fd	f	I mean, I know all life is transient, and everyone I know will one day be dead, and woe is me, I can hear the howling of the void, et cetera, et cetera.	game/whatsthisabout.rpy	117
+whatsthisallabout_start_hogwarts_000809d3	f	But it's not the kind of thing I like to have rubbed in my face or think about more than I have to, you know?	game/whatsthisabout.rpy	118
+whatsthisallabout_start_hogwarts_ba6b7551	f	Yeah, I guess I can understand that.	game/whatsthisabout.rpy	121
+whatsthisallabout_start_hogwarts_d73538d7	f	Although, to be honest, if anyone has a right to be morbid today, it's me!	game/whatsthisabout.rpy	122
+whatsthisallabout_start_hogwarts_5ed904ea	f	So cheer up, you!	game/whatsthisabout.rpy	123
+whatsthisallabout_start_hogwarts_561cecce_2	f	Oh.	game/whatsthisabout.rpy	126
+whatsthisallabout_start_hogwarts_a7819760	f	....	game/whatsthisabout.rpy	127
+whatsthisallabout_start_hogwarts_011fe9a1	f	... Really?	game/whatsthisabout.rpy	128
+needASecret_magic_b2cb2bd6	f	Really? Okay... I mean, I'll do whatever I can, but I'm not sure what I can do to help.	game/whatsthisabout.rpy	136
+needASecret_magic_1e8b55d6	f	I'm kind of out of my depth here, but I'll do what I can.	game/whatsthisabout.rpy	137
+needASecret_magic_3553af84	f	After all, it's my life, right? It's not unreasonable to expect me to help save it!	game/whatsthisabout.rpy	138
+needASecret_magic_61d8d26f	f	... wat.	game/whatsthisabout.rpy	141
+needASecret_magic_89bef528	f	When did you turn into a James Bond villain?	game/whatsthisabout.rpy	142
+needASecret_magic_3045702c	f	Okay! I can do that!	game/whatsthisabout.rpy	150
+needASecret_magic_5802aac5	f	Oh. That is so cool! Magic is just like I imagined it!	game/whatsthisabout.rpy	153
+whatsthisallabout_future_5b04d853	f	Why are you telling me this? What is this all about?	game/whatsthisabout.rpy	174
+whatsthisallabout_future_66c13485	f	Nice! I didn't even know that there {i}was{/i} a time-traveler's code!	game/whatsthisabout.rpy	177
+whatsthisallabout_future_b1b9f1bf	f	What's the future like? Or wait... I shouldn't let my prejudices show.	game/whatsthisabout.rpy	178
+whatsthisallabout_future_01e920a0	f	I just assumed that you're from the future. But what if you're from the past!	game/whatsthisabout.rpy	179
+whatsthisallabout_future_4f7aacea	f	I bet that's a major time-traveler faux pas, asking how the future is, if they're from the past.	game/whatsthisabout.rpy	180
+whatsthisallabout_future_bf831bd1	f	I bet your time machine is totally steampunk with gears, too!	game/whatsthisabout.rpy	181
+whatsthisallabout_future_125287aa	f	Okay.	game/whatsthisabout.rpy	182
+whatsthisallabout_future_0fb2d05f		She takes a deep breath.	game/whatsthisabout.rpy	183
+whatsthisallabout_future_50682264	f	Sorry, I got a little carried away there. So I'll just ask straight-up:	game/whatsthisabout.rpy	184
+whatsthisallabout_future_a2bba60d	f	Are you from the future or from the past?	game/whatsthisabout.rpy	185
+whatsthisallabout_future_b5d0e403	f	{i}Lucky!{/i} I want a flying car!	game/whatsthisabout.rpy	188
+whatsthisallabout_future_031493e5	f	Nice! That sounds awesome!	game/whatsthisabout.rpy	190
+whatsthisallabout_future_f353fa4b	f	Can I see it?	game/whatsthisabout.rpy	191
+whatsthisallabout_future_f5976b56	f	Huh! Like a parallel universe or something?	game/whatsthisabout.rpy	193
+whatsthisallabout_future_75448674	f	Or are you from like, an alternate timeline, where I'm normally evil, and have a goatee, or something?	game/whatsthisabout.rpy	194
+whatsthisallabout_future_f4b87cc3	f	Wait, are you native to this timeline?	game/whatsthisabout.rpy	195
+whatsthisallabout_future_38e08ef3	f	Or did... did you kill the real you, and take his place?	game/whatsthisabout.rpy	196
+whatsthisallabout_future_3ec57d49	f	...	game/whatsthisabout.rpy	199
+whatsthisallabout_future_60f26a69	f	You {i}do{/i} know how absurd that sounds, right?	game/whatsthisabout.rpy	200
+whatsthisallabout_future_22251577	f	I mean, I'm grateful about the life-saving and all.	game/whatsthisabout.rpy	201
+whatsthisallabout_future_c25f2ba0	f	And so I'm going to be extremely honest with you.	game/whatsthisabout.rpy	202
+whatsthisallabout_future_83ceb1b1	f	In our time... now, I mean, adding 'time' to the front of everything just makes it sound silly.	game/whatsthisabout.rpy	203
+whatsthisallabout_future_ccb52d22	f	Like you're a William Shatner movie or something.	game/whatsthisabout.rpy	204
+whatsthisallabout_future_eb371b48	f	But okay, okay. I'm sorry, I'm getting caught up on details. And I'm not trying to insult your home time.	game/whatsthisabout.rpy	205
+whatsthisallabout_future_aa864f6b	f	I'm just kind of on edge from the whole 'almost dying' thing.	game/whatsthisabout.rpy	206
+whatsthisallabout_future_3f554a53	f	So what do we do now?	game/whatsthisabout.rpy	207
+whatsthisallabout_future_800c1ad6	f	Okay, fine, then. Have it your way.	game/whatsthisabout.rpy	210
+whatsthisallabout_future_120d5ffc	f	Just so I know, is your time in the past, or in the future?	game/whatsthisabout.rpy	211
+whatsthisallabout_future_6480c077	f	Hey, if it's in the future, and I try to come up with a better phrase, and people like it better, and use it instead...	game/whatsthisabout.rpy	212
+whatsthisallabout_future_204bc91c	f	Will that irrevocably alter the course of history, so you never come back to save me?	game/whatsthisabout.rpy	213
+whatsthisallabout_future_9ee383d5	f	Or maybe you'll come back, but you'll be wearing an eye-patch or something, or have a Russian accent?	game/whatsthisabout.rpy	214
+whatsthisallabout_future_58cdeb13	f	Spoilsport.	game/whatsthisabout.rpy	217
+whatsthisallabout_future_d4a23e05	f	Yes!	game/whatsthisabout.rpy	219
+whatsthisallabout_future_935cd475	f	So there {i}is{/i} hope for the future!	game/whatsthisabout.rpy	220
+whatsthisallabout_future_be804b1b	f	I'll have to take your word for that.	game/whatsthisabout.rpy	222
+whatsthisallabout_future_dadcf182	f	Doesn't that mean I'm pretty much screwed, though? How can you save me, if we can't change history?	game/whatsthisabout.rpy	223
+whatsthisallabout_future_1a4092bc	f	I never know what you're going to say next.	game/whatsthisabout.rpy	225
+whatsthisallabout_future_85fee2fa	f	Okay, now you're just making them up.	game/whatsthisabout.rpy	229
+whatsthisallabout_future_ce367ede	f	But okay. Let's leave. Especially if you know somewhere safer.	game/whatsthisabout.rpy	230
+whatsthisallabout_future_1c20cda4	f	This place is starting to creep me out anyway, after, you know, almost dying and all.	game/whatsthisabout.rpy	231
+whatsthisallabout_future_96587085	f	Seriously?	game/whatsthisabout.rpy	234
+whatsthisallabout_future_3244fac7	f	You're serious?	game/whatsthisabout.rpy	235
+whatsthisallabout_future_3ef719eb	f	I mean, almost anything, I guess. Anything is better than 'time-murder.'	game/whatsthisabout.rpy	236
+whatsthisallabout_future_31d86202	f	Off the top of my head, for example, 'Chrono-Kill' sounds, like, WAY cooler.	game/whatsthisabout.rpy	237
+whatsthisallabout_future_ba1e39dd	f	At least 10%% cooler. Maybe even double that.	game/whatsthisabout.rpy	238
+whatsthisallabout_future_33d80ea2	f	And that's just off the top of my head.	game/whatsthisabout.rpy	239
+whatsthisallabout_future_2d104cc5	f	Any advanced, time-traveling civilization worth its salt ought to be more than capable of coming up with better ideas I have over dinner.	game/whatsthisabout.rpy	240
+whatsthisallabout_future_083c725a	f	Oh. That actually sounds pretty grim.	game/whatsthisabout.rpy	243
+whatsthisallabout_future_a7819760	f	....	game/whatsthisabout.rpy	244
+whatsthisallabout_future_b4752fcb	f	Do you know how this one ends?	game/whatsthisabout.rpy	246
+whatsthisallabout_future_2bd1f7c4		So then there is still hope!	game/whatsthisabout.rpy	249
+whatsthisallabout_future_ff64ee01	f	I can live with that, I guess.	game/whatsthisabout.rpy	251
+whatsthisallabout_future_702a66f5	f	Part of me wants to know, so I can face it head-on, and be brave and all that.	game/whatsthisabout.rpy	252
+whatsthisallabout_future_fe4a6555	f	But part of me wants to just not worry about it.	game/whatsthisabout.rpy	253
+whatsthisallabout_future_a57b227c	f	Although... We're still going to try to change it, right?	game/whatsthisabout.rpy	254
+whatsthisallabout_future_230290b8	f	Oh. Wow.	game/whatsthisabout.rpy	261
+whatsthisallabout_future_1b97d4d0	f	That's cold!	game/whatsthisabout.rpy	262
+whatsthisallabout_future_fe533ae8	f	I don't know if I feel comfortable with this plan any more.	game/whatsthisabout.rpy	263
+whatsthisallabout_future_fd3c8957	f	Do you know if... Do you know if it will hurt much?	game/whatsthisabout.rpy	264
+whatsthisallabout_future_4d0cd723	f	Excellent. So what do we do first?	game/whatsthisabout.rpy	266
+whatsthisallabout_future_2a757253	f	That's a plan I can get behind!	game/whatsthisabout.rpy	271
+whatsthisallabout_future_51427be2	f	Roger that!	game/whatsthisabout.rpy	274
+whatsthisallabout_future_561cecce	f	Oh.	game/whatsthisabout.rpy	279
+whatsthisallabout_future_a7819760_1	f	....	game/whatsthisabout.rpy	280
+whatsthisallabout_future_89f1bbe7	f	That's... kind of creepy, hearing you just say it like that.	game/whatsthisabout.rpy	281
+whatsthisallabout_future_31820487	f	Like you're pronouncing judgment upon me, or whatever.	game/whatsthisabout.rpy	282
+whatsthisallabout_future_03cfc8f7	f	Not that I'm doubting you!	game/whatsthisabout.rpy	283
+whatsthisallabout_future_78e5632f	f	It's just... I don't know, it gives me chills hearing you calmly describe how I die if I leave.	game/whatsthisabout.rpy	284
+whatsthisallabout_future_bc383289	f	Guess that means we should stay here then?	game/whatsthisabout.rpy	285
+whatsthisallabout_future_561cecce_1	f	Oh.	game/whatsthisabout.rpy	288
+whatsthisallabout_future_ca0d9b96	f	That sounds rather abrupt.	game/whatsthisabout.rpy	289
+whatsthisallabout_future_5e03bc71	f	That's... pretty hard to believe.	game/whatsthisabout.rpy	292
+whatsthisallabout_future_c3bcc471	f	And I say that having already had a moderately unbelievable evening, discovering that my best friend is apparently a time traveler.	game/whatsthisabout.rpy	293
+whatsthisallabout_future_04baa4c4	f	We're in the middle of a brightly lit restaurant, you know.	game/whatsthisabout.rpy	294
+whatsthisallabout_future_54ff9e15	f	This isn't the sort of place that ninjas usually attack.	game/whatsthisabout.rpy	295
+whatsthisallabout_future_c61106a7	f	Okay. I know I've said this a lot tonight, but...	game/whatsthisabout.rpy	298
+whatsthisallabout_future_23a2ad6b	f	Are you really serious?	game/whatsthisabout.rpy	299
+whatsthisallabout_future_cdf5b23d	f	Like, really {i}really{/i} serious?	game/whatsthisabout.rpy	300
+whatsthisallabout_future_bbdc7e50	f	Because it's getting pretty hard at this point to take you seriously.	game/whatsthisabout.rpy	301
+whatsthisallabout_future_06398373		She sighs.	game/whatsthisabout.rpy	302
+whatsthisallabout_future_681f6695	f	Well. At least I don't die in some boring way, like getting shot, or eating peanuts by mistake.	game/whatsthisabout.rpy	303
+whatsthisallabout_future_158c972b	f	So how long do we have to get out of here?	game/whatsthisabout.rpy	304
+whatsthisallabout_future_561cecce_2	f	Oh.	game/whatsthisabout.rpy	310
+whatsthisallabout_future_1f1cd1fc	f	You know, this evening just keeps getting more and more convoluted.	game/whatsthisabout.rpy	311
+whatsthisallabout_future_b382f2f2	f	So this must mean you have a plan? Except I won't go along with it?	game/whatsthisabout.rpy	312
+whatsthisallabout_future_9d67a242	f	Probably because you started it before you saved my life, and I'm too weirded out to listen to it?	game/whatsthisabout.rpy	313
+whatsthisallabout_future_4da8edd7	f	Oh man, {i}this is so cool.{/i}. We're totally making a paradox here, you know that?	game/whatsthisabout.rpy	319
+whatsthisallabout_future_d9aa3cf3	f	You're not going to get in trouble with your time-boss for this, are you?	game/whatsthisabout.rpy	320
+whatsthisallabout_future_b8e85cea	f	You play this one by the book, you hear?! Or he'll have your badge!	game/whatsthisabout.rpy	323
+whatsthisallabout_future_152b7bd9	f	You're a loose cannon!	game/whatsthisabout.rpy	324
+whatsthisallabout_future_e5772407	f	Seriously, though, I hope you won't get in trouble for this.	game/whatsthisabout.rpy	325
+whatsthisallabout_future_5075e20c	f	That's good.	game/whatsthisabout.rpy	327
+whatsthisallabout_future_d4e5a04c	f	Woah, so you're like a time-vigilante?	game/whatsthisabout.rpy	329
+whatsthisallabout_future_31b9462c	f	You're even cooler than I thought!	game/whatsthisabout.rpy	330
+whatsthisallabout_future_c21e83cd	f	Okay. So we need to come up with something you can tell me, that there is no way you could know, unless something truly weird was going on.	game/whatsthisabout.rpy	331
+whatsthisallabout_future_71ba9bb0	f	So anything I've ever told anyone or written down is out.	game/whatsthisabout.rpy	332
+whatsthisallabout_future_5c381e8e	f	Let me think.	game/whatsthisabout.rpy	333
+whatsthisallabout_start_esper_07b17066	f	What's this all about?	game/whatsthisabout.rpy	346
+whatsthisallabout_start_esper_82495245	f	Er... What?	game/whatsthisabout.rpy	349
+whatsthisallabout_start_esper_f1103dae	f	I didn't even know psychics {i}had{/i} a code.	game/whatsthisabout.rpy	350
+whatsthisallabout_start_esper_7169dce9	f	Are you like, some kind of, I don't know, psy-cop or something?	game/whatsthisabout.rpy	353
+whatsthisallabout_start_esper_8f0337e1	f	That sounds awesome!	game/whatsthisabout.rpy	354
+whatsthisallabout_start_esper_ca0685da	f	Or... you're not a supervillain, are you?	game/whatsthisabout.rpy	355
+whatsthisallabout_start_esper_340663e1	f	You don't look all creepy like Psycho-Mantis, but maybe you're just using your mind-powers to make me think you don't look creepy?	game/whatsthisabout.rpy	356
+whatsthisallabout_start_esper_0bcdbd1f	f	Oh. Whew.	game/whatsthisabout.rpy	359
+whatsthisallabout_start_esper_08995c90		You'd swear she almost seems disappointed.	game/whatsthisabout.rpy	360
+whatsthisallabout_start_esper_025f8e8c	f	Woooooaaaah!	game/whatsthisabout.rpy	363
+whatsthisallabout_start_esper_fdb4aed6	f	It's like you can read my very soul!	game/whatsthisabout.rpy	364
+whatsthisallabout_start_esper_3ec57d49	f	...	game/whatsthisabout.rpy	365
+whatsthisallabout_start_esper_561cecce	f	Oh.	game/whatsthisabout.rpy	368
+whatsthisallabout_start_esper_57b3b44a	f	That doesn't sound good at all.	game/whatsthisabout.rpy	369
+whatsthisallabout_start_esper_fdf693dd	f	Even after you saved my life?	game/whatsthisabout.rpy	372
+whatsthisallabout_start_esper_1f416d05	f	That's crappy.	game/whatsthisabout.rpy	373
+whatsthisallabout_start_esper_21e63020	f	I knew I shouldn't have gotten out of bed this morning.	game/whatsthisabout.rpy	374
+whatsthisallabout_start_esper_534fd462	f	[prompt]	game/whatsthisabout.rpy	382
+whatsthisallabout_start_esper_2a757253	f	That's a plan I can get behind!	game/whatsthisabout.rpy	385
+whatsthisallabout_start_esper_70359e00	f	So, uh. If you don't mind me asking. What's it like being a psychic?	game/whatsthisabout.rpy	386
+whatsthisallabout_start_esper_0f06ee9a	f	You're the one who's psychic!	game/whatsthisabout.rpy	389
+whatsthisallabout_start_esper_1ccad775	f	Let's head out! This place has me a little rattled anyway.	game/whatsthisabout.rpy	390
+esper_needASecret_bcdf0bcd	f	Huh?	game/whatsthisabout.rpy	395
+esper_needASecret_ffa21210	f	That's a weird thing to need.	game/whatsthisabout.rpy	396
+esper_needASecret_fa791fbb	f	You need some way of convincing me to trust you?	game/whatsthisabout.rpy	397
+esper_needASecret_44ff7fca	f	But I already trust you, I think.	game/whatsthisabout.rpy	398
+esper_needASecret_158697a6	f	That's kind of worrying, you know. Asking me to trust you, when I already do.	game/whatsthisabout.rpy	399
+esper_needASecret_e1359973	f	It's one of those things that, when you say it, has basically the opposite effect you want.	game/whatsthisabout.rpy	400
+esper_needASecret_ce2f3bc2	f	Like saying 'I'm not crazy!' Have you ever noticed that?	game/whatsthisabout.rpy	401
+esper_needASecret_2d323ef1	f	But yeah. Are you worried that evil mind-soldiers will make me forget you or something?	game/whatsthisabout.rpy	402
+esper_needASecret_9aca349b	f	Wait, are {i}you{/i} going to make me forget you? Like in Men in Black?	game/whatsthisabout.rpy	403
+esper_needASecret_2909de9e	f	What exactly are you asking for here, and why?	game/whatsthisabout.rpy	404
+esper_needASecret_0fa38397	f	So you need, I don't know, some kind of thing you could tell me that would make me trust you, even if I didn't remember you?	game/whatsthisabout.rpy	407
+esper_needASecret_6bbce6ac	f	Like a kind of password, or shibboleth, or something?	game/whatsthisabout.rpy	408
+esper_needASecret_3b33aa51	f	Hmm. It would need to be something that I knew I hadn't told anyone. Or at least didn't remember telling anyone.	game/whatsthisabout.rpy	409
+esper_needASecret_1385ee95	f	Otherwise I'd probably end up thinking you were a creepy stalker or something.	game/whatsthisabout.rpy	410
+esper_needASecret_38c18154	f	I can be kind of paranoid sometimes.	game/whatsthisabout.rpy	411
+esper_needASecret_83865da7	f	Okay, let me think.	game/whatsthisabout.rpy	412
+esper_needASecret_c9d21356	f	Except...	game/whatsthisabout.rpy	413
+esper_needASecret_076b2b00	f	If you're really a mind reader... Why do you need me to tell you one?	game/whatsthisabout.rpy	414
+esper_needASecret_7102c46e	f	Can't you just read my mind again and find something?	game/whatsthisabout.rpy	415
+esper_needASecret_f8372e21	f	... Oh.	game/whatsthisabout.rpy	422
+esper_needASecret_84adde68	f	God, that's creepy.	game/whatsthisabout.rpy	423
+esper_needASecret_8b2f679d	f	But yes. I don't think I ever told anyone that was my name for it.	game/whatsthisabout.rpy	424
+esper_needASecret_0fa2b3c0	f	I was always too afraid Mom would find out. Too embarrassed to really talk about it.	game/whatsthisabout.rpy	425
+esper_needASecret_fef6321a	f	Heh. Well, as I said. I'm kind of paranoid sometimes.	game/whatsthisabout.rpy	426
+esper_needASecret_f012f592	f	That sounds... kind of suspicious.	game/whatsthisabout.rpy	428
+esper_needASecret_6a39d23c	f	That's a highly convenient time for your mental powers to suddenly konk out.	game/whatsthisabout.rpy	429
+esper_needASecret_139abe56	f	This whole thing feels really dubious.	game/whatsthisabout.rpy	430
+esper_needASecret_75318ffe	f	I want to trust you. I really do.	game/whatsthisabout.rpy	431
+esper_needASecret_e7aeb558	f	But everything about this feels like some kind of a setup.	game/whatsthisabout.rpy	432
+esper_needASecret_4303f264	f	I don't know how you guessed my numbers before, but something here doesn't add up.	game/whatsthisabout.rpy	433
+esper_needASecret_072c9198	f	Um. You're what?	game/whatsthisabout.rpy	436
+esper_needASecret_0df1f5e7	f	I'm not sure I'm cool with that.	game/whatsthisabout.rpy	437
+esper_needASecret_b674fb72	f	The idea of someone messing with my head like that, and editing my memories?	game/whatsthisabout.rpy	438
+esper_needASecret_eec6ef60	f	That's kind of not cool, you know?	game/whatsthisabout.rpy	439
+esper_needASecret_93bbc126	f	You're not really going to do that, are you?	game/whatsthisabout.rpy	440
+esper_needASecret_e7137498	f	That's an oddly specific 'hypothetical situation'.	game/whatsthisabout.rpy	443
+esper_needASecret_f1eeee8c	f	You know, you're really making me start to wonder if this whole thing isn't some kind of setup.	game/whatsthisabout.rpy	444
+esper_needASecret_0957fbed	f	I still don't know how you guessed my numbers, but everything since then makes me really suspicious.	game/whatsthisabout.rpy	445
+esper_needASecret_08ee210b	f	I think I'm done here tonight.	game/whatsthisabout.rpy	446
+esper_needASecret_39c7376b	f	I need to digest all of this.	game/whatsthisabout.rpy	447
+esper_needASecret_2a1ed3f1	f	We'll talk again tomorrow, I guess.	game/whatsthisabout.rpy	448
+whatsthisallabout_savegame_91f7fdc9	f	What is all this about?	game/whatsthisabout.rpy	470
+whatsthisallabout_savegame_dc882042	f	Oh. I guess that sucks for you.	game/whatsthisabout.rpy	473
+whatsthisallabout_savegame_8bb1004f	f	I'm... not sure if you're expecting me to feel sympathy here now, or what?	game/whatsthisabout.rpy	474
+whatsthisallabout_savegame_bdd60c33	f	So now that I didn't die, does that mean you win now?	game/whatsthisabout.rpy	475
+whatsthisallabout_savegame_b37a3c38	f	Well, let's make the best of it!	game/whatsthisabout.rpy	480
+whatsthisallabout_savegame_a2071966	f	I certainly support your goal of me not dying.	game/whatsthisabout.rpy	481
+whatsthisallabout_savegame_9ecf0675	f	What should we do?	game/whatsthisabout.rpy	482
+whatsthisallabout_savegame_51427be2	f	Roger that!	game/whatsthisabout.rpy	485
+whatsthisallabout_savegame_b7e85c19	f	Okay!	game/whatsthisabout.rpy	488
+whatsthisallabout_savegame_b9b9445f	f	Oh. Really?	game/whatsthisabout.rpy	491
+whatsthisallabout_savegame_04f165e9	f	That's kind of crappy.	game/whatsthisabout.rpy	492
+whatsthisallabout_savegame_75ad9deb	f	Will you reload and try again?	game/whatsthisabout.rpy	493
+whatsthisallabout_savegame_5075e20c	f	That's good.	game/whatsthisabout.rpy	496
+whatsthisallabout_savegame_36cc4b47	f	See you around, I guess?	game/whatsthisabout.rpy	497
+whatsthisallabout_savegame_d7d762ae	f	Oh. That's kind of a grim thing to say.	game/whatsthisabout.rpy	499
+whatsthisallabout_savegame_63a5a32f	f	You'll understand if I hope that you're actually lying to me, and this is some kind of trick, then, right?	game/whatsthisabout.rpy	500
+whatsthisallabout_savegame_a533dd71	f	And that I'm not actually going to die today?	game/whatsthisabout.rpy	501
+whatsthisallabout_savegame_30f41b07	f	Neat! Then do you know kung fu?	game/whatsthisabout.rpy	506
+whatsthisallabout_savegame_03b38e72	f	Do I look like a bunch of numbers in your Neo-vision?	game/whatsthisabout.rpy	507
+whatsthisallabout_savegame_b2a1671f	f	Do something cool, since you're The One!	game/whatsthisabout.rpy	509
+whatsthisallabout_savegame_96b5f632	f	Aww.	game/whatsthisabout.rpy	512
+whatsthisallabout_savegame_da0608a8	f	So then - what now?	game/whatsthisabout.rpy	513
+whatsthisallabout_savegame_57db0a00	f	You saved my life - did some kind of crazy mind-reading trick that you claim was done because you rebooted the universe.	game/whatsthisabout.rpy	514
+whatsthisallabout_savegame_accf5f5b	f	What comes next?	game/whatsthisabout.rpy	515
+whatsthisallabout_savegame_9d42d699	f	Oh. That's pretty morbid.	game/whatsthisabout.rpy	518
+whatsthisallabout_savegame_2215ba4c	f	Is that going to take you a while? Or...?	game/whatsthisabout.rpy	519
+whatsthisallabout_savegame_cd1075ab	f	Should I just finish my dinner while you do that?	game/whatsthisabout.rpy	520
+whatsthisallabout_savegame_f4042f51	f	Let me know if you find anything interesting, I guess...?	game/whatsthisabout.rpy	521
+whatsthisallabout_savegame_cd0f191c	f	Oh! Great!	game/whatsthisabout.rpy	524
+whatsthisallabout_savegame_9da4bffd	f	I've always wanted one of those.	game/whatsthisabout.rpy	525
+whatsthisallabout_savegame_b199fe8c	f	Oh. That's not good.	game/whatsthisabout.rpy	528
+whatsthisallabout_savegame_96b5f632_1	f	Aww.	game/whatsthisabout.rpy	531
+whatsthisallabout_savegame_a3f36b9a	f	Can you do {i}something{/i} cool, though?	game/whatsthisabout.rpy	532
+whatsthisallabout_savegame_8c92c873	f	You can't just do a crazy mind-reading trick like that, claim to be some magical universe-hacker, and then leave me hanging, you know?	game/whatsthisabout.rpy	533
+whatsthisallabout_savegame_4682b0b7	f	Or do I have to wait until I'm in trouble again, before you leap into action with your wire-fu karate skills?	game/whatsthisabout.rpy	534
+whatsthisallabout_savegame_5888a5c3	f	I wonder how long I'll have to wait.	game/whatsthisabout.rpy	535
+whatsthisallabout_savegame_5b31a686		The two of you leave the restaurant, and then you fly Felicia home, because you can fly, because you are a hacker and super awesome.	game/whatsthisabout.rpy	538
+whatsthisallabout_savegame_5f633294	f	Okay...	game/whatsthisabout.rpy	541
+whatsthisallabout_savegame_dcb25e94	f	What does that mean exactly?	game/whatsthisabout.rpy	542
+whatsthisallabout_savegame_f2fa777f	f	I mean, I've taken Philosophy 101. Sure, we could all be brains in jars, living simulations or whatever.	game/whatsthisabout.rpy	543
+whatsthisallabout_savegame_0a25864a	f	Or I guess, as you're saying, computer programs that only think that they're people.	game/whatsthisabout.rpy	544
+whatsthisallabout_savegame_64a6be42	f	But if the illusion is good enough that I can't tell - how does that affect me?	game/whatsthisabout.rpy	545
+whatsthisallabout_savegame_a10445a2	f	For that matter, how do you know that {i}you{/i} are even real?	game/whatsthisabout.rpy	546
+whatsthisallabout_savegame_a5fe4e05	f	Maybe you just think you're playing a game with me in it, and you're really part of a different game for someone else?	game/whatsthisabout.rpy	547
+whatsthisallabout_savegame_757d716e	f	What, your game has {i}buttons?{/i}	game/whatsthisabout.rpy	550
+whatsthisallabout_savegame_c4649a77	f	The '90s called. They want their interfaces back!	game/whatsthisabout.rpy	551
+whatsthisallabout_savegame_da55d589	f	My game is state of the art, voice-activated, hyperthreaded real time reality-based gameplay.	game/whatsthisabout.rpy	552
+whatsthisallabout_savegame_6e46adad	f	Take that!	game/whatsthisabout.rpy	553
+whatsthisallabout_savegame_4bab2615	f	Hah!	game/whatsthisabout.rpy	556
+whatsthisallabout_savegame_eb6eb4bb	f	Oh yeah? Well... Uh... You don't even mean anything!	game/whatsthisabout.rpy	559
+whatsthisallabout_savegame_17b44c73	f	Hah. Well, I win at that, for what it's worth.	game/whatsthisabout.rpy	563
+whatsthisallabout_savegame_e9a0b76d	f	More exciting is usually good anyway.	game/whatsthisabout.rpy	564
+whatsthisallabout_savegame_03b6fe1f	f	After all, who wants to live a boring life?	game/whatsthisabout.rpy	565
+whatsthisallabout_savegame_e199655b	f	No, I think you are.	game/whatsthisabout.rpy	568
+whatsthisallabout_savegame_411efe67	f	Nuh uh, it's you.	game/whatsthisabout.rpy	573
+whatsthisallabout_savegame_37189270	f	No, I'm pretty sure you are.	game/whatsthisabout.rpy	578
+whatsthisallabout_savegame_de09b3be	f	No, you're the one in a game.	game/whatsthisabout.rpy	583
+whatsthisallabout_savegame_dd05b25a	f	No, {i}you're{/i} on {i}my{/i} screen right now.	game/whatsthisabout.rpy	588
+whatsthisallabout_savegame_8a6d3d02	f	No, {i}you{/i} don't have a game. You're in my screen. That I'm playing. To the end. Or whatever.	game/whatsthisabout.rpy	593
+whatsthisallabout_savegame_a725a79d	f	No, {i}you're{/i} the one in the game. You can tell.	game/whatsthisabout.rpy	598
+whatsthisallabout_savegame_ce93b9cf	f	No, now {i}you're{/i} just trying to be annoying.	game/whatsthisabout.rpy	603
+whatsthisallabout_savegame_2ad54d20	f	No, you stop copying me!	game/whatsthisabout.rpy	608
+whatsthisallabout_savegame_0836c73a	f	No, you're stupid.	game/whatsthisabout.rpy	613
+whatsthisallabout_savegame_4bab2615_1	f	Hah!	game/whatsthisabout.rpy	615
+whatsthisallabout_savegame_a3df4e9a	f	But didn't you already do that?	game/whatsthisabout.rpy	619
+whatsthisallabout_savegame_71fc4db7	f	You already saved my life tonight.	game/whatsthisabout.rpy	620
+whatsthisallabout_savegame_2185c7eb	f	Aren't we in the clear now?	game/whatsthisabout.rpy	622
+whatsthisallabout_savegame_d41d41b5	f	Oh, that's good.	game/whatsthisabout.rpy	625
+whatsthisallabout_savegame_61d20eb4	f	Hah. So you get to experience this fresh, like the rest of us mortals?	game/whatsthisabout.rpy	628
+whatsthisallabout_savegame_46308ec5	f	Well, guess we'll see what happens next.	game/whatsthisabout.rpy	629
+whatsthisallabout_savegame_6ff7004b	f	What's our next move?	game/whatsthisabout.rpy	630
+whatsthisallabout_savegame_125287aa	f	Okay.	game/whatsthisabout.rpy	633
+whatsthisallabout_savegame_3977cdf9	f	I might be feeling too nervous to finish my dinner now.	game/whatsthisabout.rpy	634
+whatsthisallabout_savegame_829ac094	f	But that's probably the least of my concerns now, huh?	game/whatsthisabout.rpy	635
+whatsthisallabout_savegame_5b5149e9	f	Okay, let's go.	game/whatsthisabout.rpy	638
+whatsthisallabout_savegame_a9490010	f	You've got me all spooked now!	game/whatsthisabout.rpy	639
+whatsthisallabout_savegame_561cecce	f	Oh.	game/whatsthisabout.rpy	642
+whatsthisallabout_savegame_04f165e9_1	f	That's kind of crappy.	game/whatsthisabout.rpy	643
+whatsthisallabout_savegame_15074360	f	Oh. What should we do, then?	game/whatsthisabout.rpy	646
+whatsthisallabout_savegame_79d17bb7	f	Do you know somewhere safer?	game/whatsthisabout.rpy	647
+whatsthisallabout_savegame_76ceb2bf	f	Huh. That leaves me kind of screwed, doesn't it.	game/whatsthisabout.rpy	654
+whatsthisallabout_savegame_c1b93561	f	So what's your plan, then?	game/whatsthisabout.rpy	655
+whatsthisallabout_savegame_faa5c693	f	I wish I could afford to be that passive.	game/whatsthisabout.rpy	658
+whatsthisallabout_savegame_1079d10e	f	Actually, you know what? You're full of it.	game/whatsthisabout.rpy	659
+whatsthisallabout_savegame_c01a0ff9	f	You expect me to believe that you know I'm going to die, and that now you're just going to sit and watch?	game/whatsthisabout.rpy	660
+whatsthisallabout_savegame_0f2737f8	f	This {i}has{/i} to be a joke. I know you. That's not you.	game/whatsthisabout.rpy	661
+whatsthisallabout_savegame_fcc8d573	f	If I were actually about to die, you wouldn't just be sitting there!	game/whatsthisabout.rpy	662
+whatsthisallabout_savegame_8fbcc2cc	f	You'd be {i}doing{/i} something. You're taking this all way too calmly to be real.	game/whatsthisabout.rpy	663
+whatsthisallabout_savegame_d22f8b81	f	What kind of a person could sit and watch someone die so emotionlessly?	game/whatsthisabout.rpy	664
+whatsthisallabout_savegame_44108ee4	f	This was a pretty dirty trick.	game/whatsthisabout.rpy	665
+whatsthisallabout_savegame_90bb8f4f	f	So? I'm right, aren't I?	game/whatsthisabout.rpy	666
+whatsthisallabout_savegame_f9d3dca4	f	Oh. I was hoping for something more, I don't know...	game/whatsthisabout.rpy	676
+whatsthisallabout_savegame_9a689c3b	f	Proactive.	game/whatsthisabout.rpy	677
+whatsthisallabout_savegame_561cecce_1	f	Oh.	game/whatsthisabout.rpy	680
+whatsthisallabout_savegame_b98c7748	f	I guess that sounds reasonable.	game/whatsthisabout.rpy	681
+whatsthisallabout_savegame_907149fc	f	I'm not totally happy about the 'me dying' part of this plan.	game/whatsthisabout.rpy	682
+whatsthisallabout_savegame_889e1f00	f	Heck, I'm still not totally sure this isn't some stupid trick you're playing.	game/whatsthisabout.rpy	683
+whatsthisallabout_savegame_a1ea0e2f	f	Like, I'll get all convinced that I'm about to die, and then you'll shout 'Surprise!' and I get to feel like an idiot.	game/whatsthisabout.rpy	684
+whatsthisallabout_savegame_2baae9ee	f	I... kind of hope that's it, honestly.	game/whatsthisabout.rpy	685
+whatsthisallabout_savegame_209ed468	f	It's fun to imagine that my life just got a lot more exciting.	game/whatsthisabout.rpy	686
+whatsthisallabout_savegame_84305749	f	But it's not very fun to imagine that my life just got a lot more short.	game/whatsthisabout.rpy	687
+whatsthisallabout_savegame_39404f92	f	Let me know if you find any clues, okay?	game/whatsthisabout.rpy	688
+whatsthisallabout_savegame_561cecce_2	f	Oh.	game/whatsthisabout.rpy	691
+whatsthisallabout_savegame_1e2868de	f	That sucks.	game/whatsthisabout.rpy	692
+whatsthisallabout_savegame_34fb8cfd	f	Well, I guess in that case I don't have to feel guilty about ordering dessert, at least.	game/whatsthisabout.rpy	693
+whatsthisallabout_savegame_d69811f8	f	Hey, this isn't some trick or something, is it?	game/whatsthisabout.rpy	694
+whatsthisallabout_savegame_c730854a	f	I mean, the part where you saved my life, and then knew what word I was thinking of was kind of convincing.	game/whatsthisabout.rpy	695
+whatsthisallabout_savegame_7d2f1399	f	But I'm going to be kind of mad if it turns out that I blew my diet for nothing.	game/whatsthisabout.rpy	696
+whatsthisallabout_savegame_231b3efb	f	Hahaha! Seriously? You're serious?	game/whatsthisabout.rpy	700
+whatsthisallabout_savegame_3efbf6a4	f	What in the world were you doing to make me think you were a stalker?	game/whatsthisabout.rpy	701
+whatsthisallabout_savegame_055bf734	f	Ahh, yeah, that makes sense.	game/whatsthisabout.rpy	704
+whatsthisallabout_savegame_24b3f82c	f	I {i}am{/i} pretty paranoid, and if you dumped that on me all at once, I'd probably freak out.	game/whatsthisabout.rpy	705
+whatsthisallabout_savegame_c1feefb1	f	I mean, I'm kind of freaked out as it is, but I think I'm at least to the point where I'm willing to accept that {i}something{/i} weird is going down, you know?	game/whatsthisabout.rpy	706
+whatsthisallabout_savegame_85c69ae1	f	Hehe. You must have done something {i}really{/i} embarrassing if you don't want to talk about it.	game/whatsthisabout.rpy	708
+whatsthisallabout_savegame_84ebd001	f	Okay, I'll play along. Not important.	game/whatsthisabout.rpy	709
+whatsthisallabout_savegame_bd6a4025	f	So I guess the trick is, how do you convince me to trust you in a hurry?	game/whatsthisabout.rpy	711
+whatsthisallabout_savegame_a8c6dd90	f	That's kind of a tough one.	game/whatsthisabout.rpy	712
+whatsthisallabout_savegame_58024f4a	f	I guess you'd need to be able to tell me something nonthreatening, but also mysterious enough to pique my interest.	game/whatsthisabout.rpy	713
+whatsthisallabout_savegame_5811fc15	f	So even if I wasn't sure how you did it, I'd be interested enough to play along, huh?	game/whatsthisabout.rpy	714
+whatsthisallabout_savegame_f2b71567	f	And if I'm calling you a crazy stalker, then it would need to be something that you couldn't possibly know, even if you {i}were{/i} stalking me.	game/whatsthisabout.rpy	715
+whatsthisallabout_savegame_24bb6b35	f	So... Hmm.	game/whatsthisabout.rpy	716
+needASecret_general_91c45043	f	Let me think...	game/whatsthisabout.rpy	730
+needASecret_general_a7819760	f	....	game/whatsthisabout.rpy	731
+needASecret_general_a2efc8d1	f	...........	game/whatsthisabout.rpy	732
+needASecret_general_97ceff64	f	Hmm. This is hard.	game/whatsthisabout.rpy	733
+needASecret_general_5b499500	f	You mean eleventeen ninety-dozen? How did you know about that?!?	game/whatsthisabout.rpy	736
+needASecret_general_92db0450	f	That would work, but I was talking about it with Mom just last week.	game/whatsthisabout.rpy	737
+needASecret_general_3ec57d49	f	...	game/whatsthisabout.rpy	738
+needASecret_general_b2160662	f	I'll try to come up with something else.	game/whatsthisabout.rpy	739
+needASecret_general_96587085	f	Seriously?	game/whatsthisabout.rpy	741
+needASecret_general_c6f4e2b1	f	I can't tell if you're joking or not.	game/whatsthisabout.rpy	742
+needASecret_general_b9765480		She shows you her backpack.	game/whatsthisabout.rpy	743
+needASecret_general_8b36ff0f		On the back, you can see now it has hand-embroidered letters, reading 'Macho Man Randy Savage 4-ever'	game/whatsthisabout.rpy	744
+needASecret_general_3ec57d49_1	f	...	game/whatsthisabout.rpy	745
+needASecret_general_c0d9fe51	f	Sorry. Yeah, that one wouldn't be too hard for someone to guess.	game/whatsthisabout.rpy	746
+needASecret_general_6409934a	f	I'll see if I can't think of something better.	game/whatsthisabout.rpy	747
+needASecret_general_f0cd95d6	f	Hmm. No, my parents knew about that. That won't work.	game/whatsthisabout.rpy	749
+needASecret_general_7e5b5d1e	f	I think they even have an embarrassing photo of that whole evening.	game/whatsthisabout.rpy	750
+needASecret_general_78145994	f	It's of me, on a gurney in an oxygen mask. I remember it took a lot of explaining to convince me that the oxygen tube wasn't my elephant trunk.	game/whatsthisabout.rpy	751
+needASecret_general_9f20840f	f	I'll keep thinking about it.	game/whatsthisabout.rpy	752
+needASecret_general_efc3f125	f	Hmm. No, I don't think that would work. I wrote about most of that in my diary.	game/whatsthisabout.rpy	754
+needASecret_general_e38ac6ec	f	And of course Mom and I talked about... Dad... quite a bit after he left.	game/whatsthisabout.rpy	755
+needASecret_general_2df2c339	f	Sorry. I'll keep thinking.	game/whatsthisabout.rpy	756
+needASecret_general_8c3907b5	f	Hmm...	game/whatsthisabout.rpy	757
+needASecret_general_44df2cc3	f	Hmm. No, I don't think that would work. I actually had Mom proofread my letter and help me mail it.	game/whatsthisabout.rpy	759
+needASecret_general_3ec57d49_2	f	...	game/whatsthisabout.rpy	760
+needASecret_general_c9d21356	f	Except...	game/whatsthisabout.rpy	761
+needASecret_general_da2b5684	f	I {i}do{/i} remember that I thought the entrance to Hogwarts was up on Moore's Hill, up outside of town.	game/whatsthisabout.rpy	762
+needASecret_general_162cfab3	f	Since there aren't any trains around here, you know. I couldn't get in at the train station.	game/whatsthisabout.rpy	763
+needASecret_general_fa20fd5e	f	So I think I convinced myself that they'd have to come pick me up by airlift, like in one of their magic flying cars or something.	game/whatsthisabout.rpy	764
+needASecret_general_bdb3a888	f	I always imagined myself standing up on the hill in one of those ridiculous scarfs, and Hagrid or someone swooping down, and carrying me off to a magical place where I could fix everything.	game/whatsthisabout.rpy	765
+needASecret_general_736cac92	f	I don't think that was ever important enough that I ever told anyone about it.	game/whatsthisabout.rpy	766
+needASecret_general_284380e3	f	But I'm pretty sure that if you asked me about 'the local Hogwarts pickup stop', I'd know what you mean.	game/whatsthisabout.rpy	767
+needASecret_general_229175e5	f	And be really curious about how {i}you{/i} knew.	game/whatsthisabout.rpy	769
+needASecret_general_90a1ee18	f	Will that work?	game/whatsthisabout.rpy	770
+needASecret_general_8247c748	f	Yay! I'm glad I could help!	game/whatsthisabout.rpy	773
+needASecret_general_a5ed765c	f	So this will help save my life?	game/whatsthisabout.rpy	774
+needASecret_general_6aa01560	f	I hope it works!	game/whatsthisabout.rpy	777
+needASecret_general_f5a880c3	f	I mean, obviously, I guess.	game/whatsthisabout.rpy	778
+needASecret_general_0df250f2	f	Tell me if there is anything else I can do!	game/whatsthisabout.rpy	779
+needASecret_general_b0a91d6f	f	Oh wow, that takes me back.	game/whatsthisabout.rpy	782
+needASecret_general_9858e0f9	f	Wow, how did you even know about that?	game/whatsthisabout.rpy	783
+needASecret_general_c0b4a088	f	Oh. Right. You're a... Yeah, never mind.	game/whatsthisabout.rpy	784
+needASecret_general_45973161	f	Okay, let me think. Yeah, I think that should work. I'm pretty sure that was never important enough to ever write down, even in my diary.	game/whatsthisabout.rpy	785
+needASecret_general_b6575b41	f	And I certainly would have been too embarrassed to mention it to anyone.	game/whatsthisabout.rpy	786
+needASecret_general_94eb9507	f	I'm positive I never told anyone about it. Heck, I don't think I've even ever really thought about it for years.	game/whatsthisabout.rpy	788
+needASecret_general_6c26544d	f	That's really creepy, though, how you just magicked it out of my head like that.	game/whatsthisabout.rpy	789
+needASecret_general_b0332f5a	f	This evening has been pretty weird, so I think I'm just sort of taking these things in stride now.	game/whatsthisabout.rpy	790
+needASecret_general_22595b50	f	But if you'd mentioned that out of the blue {i}before{/i} we went and had ourselves such a surreal dining experience, that would have really freaked me out, you know?	game/whatsthisabout.rpy	791
+needASecret_general_75da1652	f	You've done some crazy stuff tonight, you know?	game/whatsthisabout.rpy	792
+needASecret_general_81deba2d	f	If you need to get me to trust you, or at the very least, pique my interest, that should do the trick.	game/whatsthisabout.rpy	795
+needASecret_general_119449f7	f	I mean, I already trust you now. Moreso after the whole life-saving bit.	game/whatsthisabout.rpy	796
+needASecret_general_534fd462	f	[prompt]	game/whatsthisabout.rpy	798
+needASecret_general_8247c748_1	f	Yay! I'm glad I could help!	game/whatsthisabout.rpy	801
+needASecret_general_a5ed765c_1	f	So this will help save my life?	game/whatsthisabout.rpy	802
+needASecret_general_72ffcd19	f	Cool! I'm glad I could help!	game/whatsthisabout.rpy	805
+needASecret_general_0df250f2_1	f	Tell me if there is anything else I can do!	game/whatsthisabout.rpy	806
+needASecret_general_f89d02c2	f	Maybe... Oh, I've got an idea!	game/whatsthisabout.rpy	809
+needASecret_general_74644c96	f	I had a sort of secret name for one of my favorite places, actually. It's up on Moore's Hill, outside of town?	game/whatsthisabout.rpy	810
+needASecret_general_daef1f92	f	I don't think I ever told anyone this, but in my head, at least, I always called it the 'local Hogwarts pickup stop'.	game/whatsthisabout.rpy	811
+needASecret_general_6440ab2e	f	I... may... have had fantasies about being carried off to Hogwarts when I was little.	game/whatsthisabout.rpy	813
+needASecret_general_47d138cc	f	Don't judge me!	game/whatsthisabout.rpy	814
+needASecret_general_393da278	f	Anyway, I'm nearly positive I never told anyone about it.	game/whatsthisabout.rpy	815
+needASecret_general_23eb3f33	f	Will that do?	game/whatsthisabout.rpy	816
+needASecret_general_8247c748_2	f	Yay! I'm glad I could help!	game/whatsthisabout.rpy	819
+needASecret_general_a5ed765c_2	f	So this will help save my life?	game/whatsthisabout.rpy	820
+needASecret_general_6aa01560_1	f	I hope it works!	game/whatsthisabout.rpy	823
+needASecret_general_f5a880c3_1	f	I mean, obviously, I guess.	game/whatsthisabout.rpy	824
+needASecret_general_0df250f2_2	f	Tell me if there is anything else I can do!	game/whatsthisabout.rpy	825
+dinnerStart_tacos_e652d384	f	This was a good idea. Everything is better with tacos!	game/tacos.rpy	6
+dinnerStart_tacos_33a09c1e	f	I've heard good things about this place, and I hear they got a new chef recently, too!	game/tacos.rpy	7
+dinnerStart_tacos_251f3ce6	f	And I really like how they're out on the docks like this! It's like we're eating right on the water!	game/tacos.rpy	8
+dinnerStart_tacos_90c6f179	f	Where do you want to sit?	game/tacos.rpy	11
+dinnerStart_tacos_fcc85c0a		The tables outside are popular, but your server manages to find a free one for the two of you.	game/tacos.rpy	14
+dinnerStart_tacos_92d560ec		You take your seats and start looking at the menu.	game/tacos.rpy	15
+dinnerStart_tacos_aa436d0e		The two of you sit down at a table near a giant window, where you can look out over the water.	game/tacos.rpy	18
+dinnerStart_tacos_b6abe3ab		The sun is just starting to set, and the waves are turning gold-colored. The effect is quite beautiful.	game/tacos.rpy	19
+dinnerStart_tacos_eb5f8350		You are directed to a booth, and the server brings out water and menus.	game/tacos.rpy	21
+dinnerStart_tacos_8378ff56	f	Okay, let's have some tacos! Do you have any recommendations?	game/tacos.rpy	24
+dinnerStart_tacos_1cc79003	f	I hear their fish tacos are amazing, but I'm open to other options.	game/tacos.rpy	25
+dinnerStart_tacos_1c8409e3	f	What are you going to get?	game/tacos.rpy	28
+dinnerStart_tacos_007bd880	f	You've convinced me! I'll have them too!	game/tacos.rpy	31
+dinnerStart_tacos_0fa39935	f	Hmm. Tempting.	game/tacos.rpy	34
+dinnerStart_tacos_1d9a0ab2	f	But not tempting enough! Fish tacos for me, please!	game/tacos.rpy	35
+dinnerStart_tacos_bf8652cc	f	Mmm. I do like mango!	game/tacos.rpy	39
+dinnerStart_tacos_36151081	f	But no. I entered this dinner with a resolution to eat fish tacos.	game/tacos.rpy	40
+dinnerStart_tacos_962bb24e	f	What would you think of me if I cast aside my ambitions so lightly?!	game/tacos.rpy	41
+dinnerStart_tacos_365620a2	f	Fish tacos, please!	game/tacos.rpy	42
+dinnerStart_tacos_a16fe5ba	f	Haha. I hope I don't sound obsessed to you. But for some reason I'm just really excited about tacos tonight!	game/tacos.rpy	45
+dinnerStart_tacos_33f20572	f	I'm not normally this obsessive! Honest!	game/tacos.rpy	46
+dinnerStart_tacos_0077aa8f	f	Do you ever get like that? Obsess over some particular thing you want, to the exclusion of everything else?	game/tacos.rpy	48
+dinnerStart_tacos_08ce3de1	f	Haha, yeah, I guess.	game/tacos.rpy	55
+dinnerStart_tacos_3c4ab138	f	Oh! What's that?	game/tacos.rpy	56
+dinnerStart_tacos_5236b6af		She points out the window.	game/tacos.rpy	57
+dinnerStart_tacos_e1784040	f	Are those dolphins?! I think those are dolphins!	game/tacos.rpy	58
+dinnerStart_tacos_ca6902df		You follow her as she runs to the railing to look out over the ocean.	game/tacos.rpy	59
+dinnerStart_tacos_f7041ba3	f	It is dolphins! Oh, I'm so glad we came here tonight! This is so awesome!	game/tacos.rpy	60
+dinnerStart_tacos_5b8c1f19	f	Have you ever seen anything quite like it?	game/tacos.rpy	62
+dinnerStart_tacos_2e88bc64		She gazes out at the picturesque scene for a moment longer, and then several things happen all at once.	game/tacos.rpy	73
+dinnerStart_tacos_60b81d86	f	Woah! What's happening?!	game/tacos.rpy	74
+dinnerStart_tacos_468e41df		Too quickly for you to react, and yet somehow with agonizing slowness, the railing, and in fact the whole patio, collapses into the sea.	game/tacos.rpy	75
+dinnerStart_tacos_a8679a94		Felicia tries to jump for safety as soon as she feels everything begin to move, but she's not quite quick enough. You lose sight of her in the churning water amidst all the debris from the deck.	game/tacos.rpy	76
+dinnerStart_tacos_911e0481		That was the last time you saw her. The currents near there are known to be treacherous, and they never did manage to find a body.	game/tacos.rpy	79
+howDidYouKnow_tacos_b0d3c18f		She turns around, obviously a bit surprised at your tone, but obediently takes a step to the left.	game/tacos.rpy	84
+howDidYouKnow_tacos_1209a417	f	What, was I in the way, or HOLY CRAP	game/tacos.rpy	85
+howDidYouKnow_tacos_c9eafbb9		The portion of the deck where she was just standing abruptly collapses into the water.	game/tacos.rpy	86
+howDidYouKnow_tacos_630093a3	f	I... I was almost standing there. I... Holy crap, that was close.	game/tacos.rpy	87
+howDidYouKnow_tacos_45dcec97	f	I could have died!	game/tacos.rpy	88
+waitedTooLong_tacos_df26e610		Suddenly, you're interrupted by screams and the sound of a lot of things breaking.	game/tacos.rpy	96
+waitedTooLong_tacos_961e76f3		Your first thought is that suddenly there are snakes everywhere!	game/tacos.rpy	97
+waitedTooLong_tacos_4f4d8137		Soon enough, though, you realize your mistake. It's actually just tentacles.	game/tacos.rpy	98
+waitedTooLong_tacos_d339c7ea		Countless tentacles, coming in from every window and opening, boiling up from the rolling waters beneath the restaurant.	game/tacos.rpy	99
+waitedTooLong_tacos_02192e8c		Not snakes at all, you think to yourself, as Felicia is pulled out a window, with a tentacle wrapped around her, over a foot in diameter.	game/tacos.rpy	100
+waitedTooLong_tacos_aea5083e		Just a sea monster.	game/tacos.rpy	102

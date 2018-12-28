@@ -3,7 +3,7 @@
 
 
 
-
+define config.developer = True
 define f = Character('Felicia', color="#c8ffc8", show_two_window=False, image="felicia")
 $ narrator = Character(None, color="#c8ffc8")
 
